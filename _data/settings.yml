@@ -73,21 +73,21 @@ logos:
   logos_title: Happy Customers
   logo_image:
     - alt: "Shell"
-      image: "/images/logo/shell.jpg"
+      image: "/images/logo/shell.jpeg"
     - alt: "Grundfos"
-      image: "/images/logo/grundfos.jpg"
+      image: "/images/logo/grundfos.jpeg"
     - alt: "Activision & Blizzard"
-      image: "/images/logo/activision.jpg"
+      image: "/images/logo/activision.jpeg"
     - alt: "Barco"
-      image: "/images/logo/barco.jpg"
+      image: "/images/logo/barco.jpeg"
     - alt: "Philips"
-      image: "/images/logo/philips.jpg"
+      image: "/images/logo/philips.jpeg"
     - alt: "Intel"
-      image: "/images/logo/intel.jpg"
+      image: "/images/logo/intel.jpeg"
     - alt: "SLB"
-      image: "/images/logo/slb.jpg"
+      image: "/images/logo/slb.jpeg"
     - alt: "Sony"
-      image: "/images/logo/sony.jpg"
+      image: "/images/logo/sony.jpeg"
 
 
 
