@@ -58,8 +58,6 @@ hero:
 
     We’re a team of battle-hardened engineers who have seen things… terrifying YAML files, rogue Terraform scripts, and Kubernetes clusters held together by sheer willpower. But fear not! We specialize in <b>Platform Engineering</b> and <b>Internal Developer Platforms (IDP)</b> – helping teams build self-service, scalable, and headache-free Developer experiences.
 
-    Need to untangle your DevOps spaghetti? Want a Golden Path that doesn't lead to a dead end? We’ve got you. From automating the boring stuff to making Developers actually like their <b>Internal Developer Platform</b>, we bring clarity, efficiency, and just the right amount of caffeine-powered magic to your Infrastructure.
-
     🚀 Less toil, more flow. More speed, less Ops. And definitely no more “it works on my machine” excuses.
   hero_image: /images/01.jpg
   hero_image_caption: Let’s build something amazing – without the duct tape.
