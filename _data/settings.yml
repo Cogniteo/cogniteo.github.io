@@ -41,9 +41,9 @@ menu_settings:
 
 #-------------------------------
 # Author Settings
-author:
-  author_name: Piotr Szwed
-  author_avatar: /images/01-1.jpg
+#author:
+#  author_name: Piotr Szwed
+#  author_avatar: /images/01-1.jpg
 
 
 #-------------------------------
