@@ -68,20 +68,27 @@ hero:
 
 
 # Logos
-#logos:
-#  enable: false
-#  logos_title: Nerd Stuff
-#  logo_image:
-#    - alt: "Game Boy"
-#      image: "/images/1000.jpg"
-#    - alt: "Super Nintendo"
-#      image: "/images/1001.jpg"
-#    - alt: "Keyboard"
-#      image: "/images/1002.jpg"
-#    - alt: "Headphones"
-#      image: "/images/1003.jpg"
-#    - alt: "Mouse"
-#      image: "/images/1004.jpg"
+logos:
+  enable: true
+  logos_title: Happy Customers
+  logo_image:
+    - alt: "Shell"
+      image: "/images/logo/shell.jpg"
+    - alt: "Grundfos"
+      image: "/images/logo/grundfos.jpg"
+    - alt: "Activision & Blizzard"
+      image: "/images/logo/activision.jpg"
+    - alt: "Barco"
+      image: "/images/logo/barco.jpg"
+    - alt: "Philips"
+      image: "/images/logo/philips.jpg"
+    - alt: "Intel"
+      image: "/images/logo/intel.jpg"
+    - alt: "SLB"
+      image: "/images/logo/slb.jpg"
+    - alt: "Sony"
+      image: "/images/logo/sony.jpg"
+
 
 
 #-------------------------------
