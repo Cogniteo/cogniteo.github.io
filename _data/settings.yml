@@ -41,16 +41,16 @@ menu_settings:
 
 #-------------------------------
 # Author Settings
-#author:
-#  author_name: Piotr Szwed
-#  author_avatar: /images/01-1.jpg
+author:
+  author_name: Piotr Szwed
+  author_avatar: /images/01-1.jpg
 
 
 #-------------------------------
 # Hero Settings
 hero:
   enable: true
-  hero_avatar: /images/01-1.jpg
+#  hero_avatar: /images/01-1.jpg
   hero_title: Cogniteo 👋
   hero_subtitle: Rewriting the Rules of <b>Platform Engineering</b>
   hero_description: |
@@ -61,7 +61,7 @@ hero:
     🚀 Less toil, more flow. More speed, less Ops. And definitely no more “it works on my machine” excuses.
   hero_image: /images/engineers.jpg
   hero_image_caption: Let’s build something amazing – without the duct tape.
-  hero_button_text: Let’s Work Together
+  hero_button_text: Contact us
   hero_button_link: '/contact/'
 
 
