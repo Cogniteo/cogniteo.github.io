@@ -25,18 +25,18 @@ menu_settings:
   menu_items:
     - title: 'Home'
       url: '/'
-    - title: 'Videos'
-      url: '/videos/'
-    - title: 'Archive'
-      url: '/archive/'
-    - title: 'Pages'
-      submenu:
-      - url: '/about/'
-        title: 'About'
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+#    - title: 'Videos'
+#      url: '/videos/'
+#    - title: 'Archive'
+#      url: '/archive/'
+#    - title: 'Pages'
+#      submenu:
+#      - url: '/about/'
+#        title: 'About'
+#      - url: '/contact/'
+#        title: 'Contact'
+#      - url: '/elements/'
+#        title: 'Elements'
 
 
 #-------------------------------
@@ -91,72 +91,72 @@ logos:
 
 #-------------------------------
 # Section Blog Settings
-blog:
-  enable: true
-  blog_title: The Binary Journal
+#blog:
+#  enable: true
+#  blog_title: The Binary Journal
 
 
 #-------------------------------
 # Tags Section Settings
-tags_section:
-  enable: true
-  tags_section_title: Hacker’s Haven
-  tags:
-    - tag: "Programming"
-      image: "/images/20.jpg"
-    - tag: "Linux"
-      image: "/images/21.jpg"
-    - tag: "Productivity"
-      image: "/images/22.jpg"
-    - tag: "Security"
-      image: "/images/23.jpg"
+#tags_section:
+#  enable: true
+#  tags_section_title: Hacker’s Haven
+#  tags:
+#    - tag: "Programming"
+#      image: "/images/20.jpg"
+#    - tag: "Linux"
+#      image: "/images/21.jpg"
+#    - tag: "Productivity"
+#      image: "/images/22.jpg"
+#    - tag: "Security"
+#      image: "/images/23.jpg"
 
 
 #-------------------------------
 # Videos Section Settings
-videos_section:
-  enable: true
-  videos_section_title: Latest Videos
+#videos_section:
+#  enable: true
+#  videos_section_title: Latest Videos
 
 
 #-------------------------------
 # Gallery Section Settings
-gallery_section:
-  enable: true
-  gallery_section_title: Byte Frame
-  gallery:
-    gallery_images:
-      - alt: 'Rest'
-        url: '/images/100.jpg'
-        caption: 'Small steps lead to big results.'
-      - alt: 'Lifestyle'
-        url: '/images/101.jpg'
-        caption: 'A peaceful moment captured during a serene evening.'
-      - alt: 'Hobby'
-        url: '/images/102.jpg'
-        caption: 'True friends are like stars — they shine brightest when the world feels dark.'
-      - alt: 'Computers'
-        url: '/images/103.jpg'
-        caption: 'Every click opens a new chapter in an endless story.'
-      - alt: 'Games'
-        url: '/images/104.jpg'
-        caption: 'Every level is a new opportunity to test your limits.'
+#gallery_section:
+#  enable: true
+#  gallery_section_title: Byte Frame
+#  gallery:
+#    gallery_images:
+#      - alt: 'Rest'
+#        url: '/images/100.jpg'
+#        caption: 'Small steps lead to big results.'
+#      - alt: 'Lifestyle'
+#        url: '/images/101.jpg'
+#        caption: 'A peaceful moment captured during a serene evening.'
+#      - alt: 'Hobby'
+#        url: '/images/102.jpg'
+#        caption: 'True friends are like stars — they shine brightest when the world feels dark.'
+#      - alt: 'Computers'
+#        url: '/images/103.jpg'
+#        caption: 'Every click opens a new chapter in an endless story.'
+#      - alt: 'Games'
+#        url: '/images/104.jpg'
+#        caption: 'Every level is a new opportunity to test your limits.'
 
 
 #-------------------------------
 # Newsletter Settings
-mailchimp:
-  enable: true
-  mailchimp_title: Stay inspired weekly ✌️
-  mailchimp_description: Every Sunday, I deliver actionable tips for enhancing productivity, practical life advice, and top-notch insights gathered from various sources, right to your email inbox.
-  mailchimp_identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
-  mailchimp_input_text: Your email address...
-  mailchimp_button_text: Join Now
+#mailchimp:
+#  enable: true
+#  mailchimp_title: Stay inspired weekly ✌️
+#  mailchimp_description: Every Sunday, I deliver actionable tips for enhancing productivity, practical life advice, and top-notch insights gathered from various sources, right to your email inbox.
+#  mailchimp_identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
+#  mailchimp_input_text: Your email address...
+#  mailchimp_button_text: Join Now
 
 
 #-------------------------------
 # Footer Settings
-footer_description: Here, I share ideas, tools, and methods that help me balance productivity with creativity while keeping control over my digital world. Dive in, get inspired, and feel free to share your thoughts!
+#footer_description: Here, I share ideas, tools, and methods that help me balance productivity with creativity while keeping control over my digital world. Dive in, get inspired, and feel free to share your thoughts!
 
 
 #-------------------------------
@@ -164,8 +164,6 @@ footer_description: Here, I share ideas, tools, and methods that help me balance
 social:
 - {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://twitter.com"}
 - {icon: "fa-brands fa-facebook", name: "Facebook", link: "https://facebook.com"}
-- {icon: "fa-brands fa-mastodon", name: "Mastodon", link: "https://mastodon.social"}
-- {icon: "fa-brands fa-reddit-alien", name: "Reddit", link: "https://reddit.com"}
 - {icon: "fa-brands fa-github", name: "Github", link: "https://github.com"}
 - {icon: "fa-solid fa-rss", name: "Rss", link: "/feed.xml"}
 
@@ -175,21 +173,12 @@ social:
 
 #-------------------------------
 # Contact Settings
-contact:
-  form_id: your@email.com # Add your form_id
-  button_text: Send Now
+#contact:
+#  form_id: your@email.com # Add your form_id
+#  button_text: Send Now
 
 # NOTE
 # Coderon theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
-
-
-#-------------------------------
-# Comment Section (Disqus)
-disqus:
-  enable: true
-  disqus_identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
-  disqus_title: Start the conversation
-  disqus_button_text: Show Comments
 
 
 #-------------------------------
