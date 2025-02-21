@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Cogniteo
-description: Cogniteo - an independent Collective of Platform Engineering Consultants 
+description: Cogniteo - an Independent Collective of Platform Engineering consultants 
 logo: # You can add own logo. For example '/images/logo.png'.
 logo_dark:
 
@@ -68,20 +68,20 @@ hero:
 
 
 # Logos
-logos:
-  enable: true
-  logos_title: Nerd Stuff
-  logo_image:
-    - alt: "Game Boy"
-      image: "/images/1000.jpg"
-    - alt: "Super Nintendo"
-      image: "/images/1001.jpg"
-    - alt: "Keyboard"
-      image: "/images/1002.jpg"
-    - alt: "Headphones"
-      image: "/images/1003.jpg"
-    - alt: "Mouse"
-      image: "/images/1004.jpg"
+#logos:
+#  enable: false
+#  logos_title: Nerd Stuff
+#  logo_image:
+#    - alt: "Game Boy"
+#      image: "/images/1000.jpg"
+#    - alt: "Super Nintendo"
+#      image: "/images/1001.jpg"
+#    - alt: "Keyboard"
+#      image: "/images/1002.jpg"
+#    - alt: "Headphones"
+#      image: "/images/1003.jpg"
+#    - alt: "Mouse"
+#      image: "/images/1004.jpg"
 
 
 #-------------------------------
