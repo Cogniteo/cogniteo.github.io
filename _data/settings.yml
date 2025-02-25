@@ -1,9 +1,9 @@
 #-------------------------------
 # Site Settings
 title: Cogniteo
-description: Cogniteo - an Independent Collective of Platform Engineering Experts
+description: Cogniteo - an Independent Platform Engineering Collective 
 logo: /images/fulllogo_nobuffer.png
-logo_dark:
+logo_dark: /images/fulllogo_nobuffer.png
 
 
 #-------------------------------
