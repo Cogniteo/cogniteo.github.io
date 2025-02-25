@@ -29,14 +29,14 @@ menu_settings:
       url: 'https://github.com/Cogniteo/DNA/blob/main/README.md'
     - title: 'Contact'
       url: '/contact/'
+    - title: 'Team'
+      url: '/about/'
 #    - title: 'Videos'
 #      url: '/videos/'
 #    - title: 'Archive'
 #      url: '/archive/'
 #    - title: 'Pages'
 #      submenu:
-#      - url: '/about/'
-#        title: 'About'
 #      - url: '/elements/'
 #        title: 'Elements'
 
