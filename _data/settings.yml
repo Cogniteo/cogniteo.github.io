@@ -25,6 +25,8 @@ menu_settings:
   menu_items:
     - title: 'Home'
       url: '/'
+    - title: 'Contact'
+      url: '/contact/'
 #    - title: 'Videos'
 #      url: '/videos/'
 #    - title: 'Archive'
@@ -33,8 +35,6 @@ menu_settings:
 #      submenu:
 #      - url: '/about/'
 #        title: 'About'
-#      - url: '/contact/'
-#        title: 'Contact'
 #      - url: '/elements/'
 #        title: 'Elements'
 
