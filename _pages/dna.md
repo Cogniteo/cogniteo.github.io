@@ -5,56 +5,76 @@ permalink: /dna/
 image: '/images/dna.png'
 ---
 
-Hey, I’m Alex - part developer, part digital explorer, and full-time lover of all things tech. From crafting lines of code on Linux to unraveling the layers of cybersecurity, my passion for technology goes beyond just a career.
+# DNA
 
-{: .note }
-Even the most experienced developers don't know everything
+## Mission & Values
 
-Over the years, my curiosity only deepened. I became a coder, learning languages like Python, JavaScript, and C++, and fell in love with the sheer power of programming. For me, coding isn’t just a skill; it’s a language for bringing ideas to life. The thrill of debugging, the satisfaction of building something from scratch, and the endless potential of code keep me motivated every day. Coding lets me shape my vision into reality, one line at a time.
+We believe that the value of the work of a collective is greater than the sum of the value of the work of its members acting individually and independently of each other.
 
-> Curiosity fuels my code, Linux keeps me grounded, and every bug is just a puzzle waiting to be solved.
+Cogniteo is a community-driven organization committed to advancing **Platform Engineering** through open-source contribution, collaboration, ethical business practices, and continuous learning. Our mission is to create vendor-agnostic, scalable, efficient, and resilient Platforms while fostering an inclusive and transparent culture.
 
-Linux was a turning point. Once I got into Linux, I realized how transformative open-source software could be. I started with Ubuntu, dabbled in Debian, and eventually moved on to Arch. Linux taught me how customizable, flexible, and free technology could truly be. It’s more than an operating system—it’s a philosophy that resonates with my love for exploration and problem-solving. My Linux setup is always evolving, whether I'm configuring a new window manager or experimenting with terminal commands. It’s like a puzzle I never get tired of solving.
+Core Values:
 
-<div class="gallery-box">
-  <div class="gallery gallery-columns-2">
-    {% include img.html src ="/images/01-4.jpg" alt="Keyboard" caption="The symphony of keys" %}
-    {% include img.html src ="/images/01-5.jpg" alt="Keyboard" caption="Where every keystroke brings ideas to life" %}
-    {% include img.html src ="/images/01-6.jpg" alt="Keyboard" caption="The quiet hum of creativity" %}
-    {% include img.html src ="/images/01-7.jpg" alt="Keyboard" caption="Ready to transform thoughts into text" %}
-  </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
-</div>
+- Collaboration: We believe in the power of collective intelligence.
+- Integrity: Honest and ethical practices guide our work.
+- Innovation: Continuous improvement and adaptability are key to success.
+- Sustainability: We build platforms with long-term impact in mind.
+- Customer-Centricity: The needs and success of our clients drive our solutions.
 
-Gaming is another integral part of my story. Growing up with video games, I’ve seen firsthand how gaming has evolved from simple pixelated platforms to immersive, narrative-driven experiences. My love for gaming goes beyond just playing; I enjoy analyzing game mechanics, studying character design, and understanding the technology behind these virtual worlds. Indie games hold a special place in my heart because they represent the creativity and innovation of small teams that pour their souls into making something unique.
+## New Members
 
-```js
-  $('.top').click(function () {
-    $('html, body').stop().animate({ scrollTop: 0 }, 'slow', 'swing');
-  });
-  $(window).scroll(function () {
-    if ($(this).scrollTop() > $(window).height()) {
-      $('.top').addClass("top-active");
-    } else {
-      $('.top').removeClass("top-active");
-    };
-  });
-```
+New Members undergo an incubation phase to ensure alignment with our principles and standards. This period allows for mutual assessment and skill development.
 
-When I’m not coding or gaming, I’m diving into the world of comics and sci-fi movies. Both are more than hobbies—they’re ways to explore the “what ifs” of life. Comics taught me that even fictional heroes have real struggles, and sci-fi movies sparked my imagination about the future.
+Phases of Incubation:
 
-## The Mind Behind the Keyboard
+### Onboarding (Month 1)
 
-Building this blog has been a passion project. It’s a place where I can share my journey, document what I learn, and connect with people who have the same interests. I’ve written countless tutorials, tech tips, and reviews because I want to create a resource I wish I had when I was starting out. The tech world can be intimidating, but it doesn’t have to be. Thоrough this blog, I hope to make technology accessible, fun, and rewarding for people of all skill levels.
+- Introduction to Collective's mission, processes, and ethical guidelines.
+- Pairing with a mentor for knowledge transfer.
+- Initial skill assessment.
 
-![Keyboard]({{site.baseurl}}/images/01-3.jpg)
-*Photo by [Pablo Stanley](https://www.lummi.ai/photo/contemplative-technicolor-workstation-sonrb) on [Lummi](https://www.lummi.ai/)*
+### Integration (Months 2-4)
 
-Looking back, I see that each step in my journey—whether it was installing my first Linux distro, debugging my first program, or exploring cybersecurity—has shaped me into who I am today.
+- Participation in real-world projects with senior consultants.
+- Bi-weekly feedback and performance review.
+- Contribution to internal knowledge-sharing initiatives.
 
-The geek in me thrives on discovery, and as I explore new topics and skills, I’m reminded that there’s always more to learn. That’s the beauty of the tech world: no matter how much you know, there’s always a new challenge or a new horizon waiting.
+Evaluation & Decision (Months 5-6)
 
-{: .important }
-Automate repetitive tasks. If you find yourself doing the same task multiple times, it's a sign you should automate it.
+- Final assessment based on project contributions and alignment with values.
+- Decision on full membership, extension of incubation, or offboarding with feedback.
 
-Thank you for being here and for sharing in this journey with me. This blog is more than just articles and posts; it’s a community of curious, passionate individuals who love technology, creativity, and the endless pursuit of knowledge. Whether you’re a fellow Linux enthusiast, a developer looking for new ideas, or just someone curious about the digital world, I’m excited to connect and share this space with you.
+## Decision-Making Framework
+
+The Collective employs a decentralized and consensus-driven decision-making model, ensuring all voices are heard while maintaining efficiency.
+
+Types of Decisions:
+
+- Operational Decisions: Managed by working groups within the Collective.
+- Strategic Decisions: Require consensus from core members.
+- Client Engagement Decisions: Subject to ethical review and impact analysis.
+
+Decision-Making Process:
+
+- Proposal Stage: Any member can propose a decision.
+- Discussion Phase: Open discussion within the group.
+- Consensus or Vote: A 75% majority vote is required for major decisions.
+- Implementation: Assigned team executes the decision, followed by a retrospective analysis.
+
+## Ethical Model for Working with Customers
+
+Our approach to customer relationships is based on fairness, transparency, and accountability.
+
+Ethical Guidelines:
+
+- Honest Consulting: We provide objective, vendor-neutral recommendations.
+- Data Protection: Adherence to privacy laws and best practices.
+- Fair Pricing: Transparent pricing structures with no hidden costs.
+- Continuous Improvement: Regular ethical audits and client feedback loops.
+- No Exploitative Contracts: Ensuring fair terms for both parties.
+
+By adhering to this DNA document, Cogniteo Collective ensures a culture of trust, innovation, and sustainable impact in the field of platform engineering.
+
+# Contribution
+
+https://github.com/Cogniteo/DNA
