@@ -78,4 +78,4 @@ By adhering to this DNA document, Cogniteo Collective ensures a culture of trust
 
 # Contribution
 
-https://github.com/Cogniteo/DNA
+[GitHub DNA](https://github.com/Cogniteo/DNA)
