@@ -8,7 +8,7 @@ image: images/engineers.jpg
 We are a team of independent experts with decades of experience in Platform Engieering and building Internal Developer Platforms.
 
 {: .note }
-We specialize in supporting clients in building dedicated Internal developer Platform solutions
+We specialize in supporting clients in building dedicated Internal Developer Platforms
 
 > We are independent from suppliers, our solutions and recommendations are based mainly on Open Source software.
 
