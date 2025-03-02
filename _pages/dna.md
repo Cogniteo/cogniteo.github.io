@@ -21,6 +21,7 @@ Core Values:
 - Sustainability: We build platforms with long-term impact in mind.
 - Customer-Centricity: The needs and success of our clients drive our solutions.
 
+
 ## New Members
 
 New Members undergo an incubation phase to ensure alignment with our principles and standards. This period allows for mutual assessment and skill development.
