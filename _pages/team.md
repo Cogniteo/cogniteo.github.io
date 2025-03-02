@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-permalink: /about/
+permalink: /team/
 image: '/images/fulllogo.png'
 ---
 
