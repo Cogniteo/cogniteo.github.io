@@ -28,7 +28,7 @@ menu_settings:
     - title: 'DNA'
       url: 'https://github.com/Cogniteo/DNA/blob/main/README.md'
     - title: 'Team'
-      url: '/about/'
+      url: '/team/'
     - title: 'Contact'
       url: '/contact/'
 #    - title: 'Videos'
