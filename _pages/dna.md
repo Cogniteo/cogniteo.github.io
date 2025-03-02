@@ -40,7 +40,7 @@ Phases of Incubation:
 - Bi-weekly feedback and performance review.
 - Contribution to internal knowledge-sharing initiatives.
 
-Evaluation & Decision (Months 5-6)
+### Evaluation & Decision (Months 5-6)
 
 - Final assessment based on project contributions and alignment with values.
 - Decision on full membership, extension of incubation, or offboarding with feedback.
