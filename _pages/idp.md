@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Elements
-permalink: /elements/
+title: IDP
+permalink: /idp/
 image: '/images/17.jpg'
 ---
 

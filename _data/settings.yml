@@ -25,20 +25,14 @@ menu_settings:
   menu_items:
     - title: 'Home'
       url: '/'
+    - title: 'Reference Architecture'
+      url: '/reference-architecture/'
     - title: 'DNA'
       url: '/dna/'
     - title: 'Team'
       url: '/team/'
     - title: 'Contact'
       url: '/contact/'
-#    - title: 'Videos'
-#      url: '/videos/'
-#    - title: 'Archive'
-#      url: '/archive/'
-#    - title: 'Pages'
-#      submenu:
-#      - url: '/elements/'
-#        title: 'Elements'
 
 
 #-------------------------------
@@ -168,6 +162,7 @@ social:
 - {icon: "fa-brands fa-linkedin", name: "LinkedIn", link: "https://www.linkedin.com/company/cogniteo"}
 - {icon: "fa-brands fa-github", name: "Github", link: "https://github.com/orgs/Cogniteo/repositories"}
 - {icon: "fa-brands fa-youtube", name: "Youtube", link: "https://www.youtube.com/@cogniteo"}
+- {icon: "fa-brands fa-slack", name: "Slack", link: "https://join.slack.com/t/cogniteo/shared_invite/zt-30uiw68xd-aUIW23lJkdRolFi51JdcHg"}
 - {icon: "fa-solid fa-rss", name: "Rss", link: "/feed.xml"}
 
 # Example of adding a new link to the sidebar and footer - {icon: "fa-brands fa-youtube", name: "Youtube", link: https://youtube.com"}
