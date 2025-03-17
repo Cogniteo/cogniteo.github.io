@@ -31,7 +31,6 @@ We are proud to collaborate with industry leaders Zensar, Kubermatic, Odyssey, a
     {% include img.html src ="/images/zensar.png" alt="Zensar" %}
     {% include img.html src ="/images/fikaworks.jpeg" alt="Fika Works" %}
     {% include img.html src ="/images/odyssey.avif" alt="Odyssey" %}
-    {% include img.html src ="/images/cncf.png" alt="CNCF" %}
   </div>
 </div>
 
