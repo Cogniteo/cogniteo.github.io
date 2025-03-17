@@ -22,3 +22,4 @@ We are a team of independent experts with decades of experience in Platform Engi
     {% include img.html src ="/images/filipealfares.jpeg" alt="Filipe Alfares" %}
   </div>
 </div>
+
