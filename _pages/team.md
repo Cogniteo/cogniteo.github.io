@@ -21,6 +21,8 @@ We are a team of independent experts with decades of experience in Platform Engi
   </div>
 </div>
 
+***
+
 # Our Partners
 
 We are proud to collaborate with industry leaders Zensar, Kubermatic, Odyssey, and Exerizon to deliver innovative solutions and exceptional value. Their expertise and cutting-edge technologies help us drive success and stay ahead in the ever-evolving digital landscape.
@@ -33,5 +35,3 @@ We are proud to collaborate with industry leaders Zensar, Kubermatic, Odyssey, a
     {% include img.html src ="/images/odyssey.avif" alt="Odyssey" %}
   </div>
 </div>
-
-~
