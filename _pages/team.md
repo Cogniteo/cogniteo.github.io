@@ -25,7 +25,7 @@ We are a team of independent experts with decades of experience in Platform Engi
 
 # Our Partners
 
-We are proud to collaborate with industry leaders Zensar, Kubermatic and Odyssey to deliver innovative solutions and exceptional value. Their expertise and cutting-edge technologies help us drive success and stay ahead in the ever-evolving digital landscape.
+We are proud to collaborate with Zensar, Kubermatic and Odyssey to deliver innovative solutions and exceptional value. Their expertise and cutting-edge technologies help us drive success and stay ahead in the ever-evolving digital landscape.
 
 <div class="gallery-box">
   <div class="gallery gallery-columns-2">
