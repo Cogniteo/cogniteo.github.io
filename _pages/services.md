@@ -10,7 +10,7 @@ image: '/images/idp.jpg'
 We specialize in **Platform Engineering** and the development of **Internal Developer Platforms (IDPs)** that empower engineering teams to ship software efficiently. Our approach is vendor-independent, leveraging open-source technologies and the **Cloud Native Computing Foundation (CNCF) ecosystem** to create flexible, scalable, and cost-effective solutions.
 
 {: .caution }
-We consider Terraform to be an outdated solution, new implementations and new components are built 100% on top of the Kubernetes engine.
+We consider Terraform to be an outdated solution, new implementations and new components are built on top of the Kubernetes engine.
 
 ***
 
