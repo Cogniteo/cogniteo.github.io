@@ -58,9 +58,3 @@ We help organizations:
 - Expertise in CNCF & Cloud-Native: Proven experience in Kubernetes, GitOps, and cloud-native stacks
 - Tailored Solutions: Every platform is designed to fit your engineering needs
 - End-to-End Support: From strategy to implementation and ongoing optimization
-
-# Get in Touch
-
-Let’s discuss how we can build the right **Internal Developer Platform** for your team. Reach out to us to schedule a consultation!
-
-
