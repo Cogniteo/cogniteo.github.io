@@ -21,7 +21,7 @@ We help organizations:
 - **Enhance Developer Experience**: Provide intuitive interfaces and automation to eliminate friction in development.
 - **Ensure Compliance & Security**: Implement best practices for governance, security, and observability.
 - **Lower Costs & Increase Flexibility**: Avoid vendor lock-in with open-source solutions and cloud-native technologies.
-- **Enable AI Agents**: Enable AI machinery on both sides: Internal Developer Platform engine and in the IDP User space
+- **Enable AI Agents**: Enable AI machinery on both sides: Internal Developer Platform engine and its Data Plane
 
 ***
 
