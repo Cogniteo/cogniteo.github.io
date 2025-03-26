@@ -27,14 +27,20 @@ menu_settings:
       url: '/'
     - title: "Services"
       url: '/services/'
-    - title: 'IDP'
+    - title: 'Internal Developer Platform'
       url: '/idp/'
-    - title: 'DNA'
-      url: '/dna/'
-    - title: 'Team'
-      url: '/team/'
+    - title: 'Platform Engineering'
+      url: '/pe/'
     - title: 'Contact'
       url: '/contact/'
+    - title: 'Pages'
+      submenu:
+      - title: 'DNA'
+        url: '/dna/'
+      - title: 'Team'
+        url: '/team/'
+      - title: 'Partners'
+        url: '/partners/'
 
 
 #-------------------------------
