@@ -20,17 +20,3 @@ We are a team of independent experts with decades of experience in Platform Engi
     {% include img.html src ="/images/filipealfares.jpeg" alt="Filipe Alfares" %}
   </div>
 </div>
-
-***
-
-# Our Partners
-
-We are proud to collaborate with Zensar, Kubermatic and Odyssey to deliver innovative solutions and exceptional value. Their expertise and cutting-edge technologies help us drive success and stay ahead in the ever-evolving digital landscape.
-
-<div class="gallery-box">
-  <div class="gallery gallery-columns-2">
-    {% include img.html src ="/images/kubermatic.jpg" alt="Kubermatic" %}
-    {% include img.html src ="/images/zensar.png" alt="Zensar" %}
-    {% include img.html src ="/images/odyssey.avif" alt="Odyssey" %}
-  </div>
-</div>
