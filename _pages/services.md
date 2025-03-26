@@ -2,7 +2,7 @@
 layout: page
 title: Services 
 permalink: /services/
-image: '/images/idp.jpg'
+image: '/images/services.jpg'
 ---
 
 # About Our Collective

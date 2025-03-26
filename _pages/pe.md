@@ -1,3 +1,9 @@
+---
+layout: page
+title: Platform Engineering
+permalink: /pe/
+image: '/images/pe.jpg'
+---
 
 # [Awesome Platform Engineering](https://github.com/Cogniteo/awesome-platform-engineering)
 

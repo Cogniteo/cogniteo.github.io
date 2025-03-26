@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Platform Engineering 
-permalink: /pe/
-image: '/images/pe.jpg'
+title: Internal Developer Platform
+permalink: /idp/
+image: '/images/idp.jpg'
 ---
 
 # Platform Engineering
