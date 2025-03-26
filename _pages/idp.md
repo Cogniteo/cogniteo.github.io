@@ -1,8 +1,8 @@
 ---
 layout: page
-title: IDP
-permalink: /idp/
-image: '/images/idp.jpg'
+title: Platform Engineering 
+permalink: /pe/
+image: '/images/pe.jpg'
 ---
 
 # Platform Engineering
