@@ -2,7 +2,7 @@
 layout: page
 title: Partners
 permalink: /partners/
-image: images/engineers.jpg
+image: images/partners.jpg
 ---
 
 # Our Partners
