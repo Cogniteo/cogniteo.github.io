@@ -27,26 +27,36 @@ We help organizations:
 
 # Our Services
 
-## Platform Engineering Strategy & Advisory
+## Platform Engineering
+
+### Platform Engineering Strategy & Advisory
+
 - Assessment of current infrastructure and developer workflows
 - Platform Engineering Strategy aligned with business objectives
 - Open-source tooling recommendations and CNCF landscape evaluation
 - Vendor-neutral guidance on Internal Developer Platform design and architecture
 
-## Internal Developer Platform (IDP) Design & Implementation
+### Internal Developer Platform (IDP) Design & Implementation
+
 - Blueprinting and designing an Internal Developer Platform
 - Infrastructure as Code (IaC) implementation (Kubernetes Operator Pattern, KRO, Crossplane, etc..)
 - Kubernetes-based orchestration with GitOps (ArgoCD, FluxCD)
 - CI/CD pipeline automation and integration (Tekton, Jenkins, GitHub Actions)
 - API gateways, service mesh, and developer portal setup (Backstage, Istio, Kuma)
 
-## DevOps & Cloud-Native Transformation
+***
+
+## DevOps, Cloud, Kubernetes, Cloud Native
+
+### DevOps & Cloud-Native Transformation
+
 - Cloud migration strategy and implementation (AWS, GCP, Azure, on-prem)
 - Microservices and container orchestration (Kubernetes, Docker, Nomad)
 - Observability, monitoring, and logging (Prometheus, Grafana, OpenTelemetry)
 - Policy enforcement and security best practices (OPA, Kyverno, Falco)
 
-## Training & Enablement
+### Training & Enablement
+
 - Hands-on workshops and knowledge transfer sessions
 - Platform engineering best practices and team enablement
 - Customized training on CNCF technologies and open-source tools
