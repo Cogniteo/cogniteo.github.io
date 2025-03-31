@@ -16,7 +16,7 @@ An Internal Developer Platform (IDP) is a self-service set of tools and services
 ## Roles 
 
 {: .note }
-Platform Engineer is both a Developer and a User of the Internal Developer Platform ("eat your own dog food")
+Platform Engineer is both a Developer and a User of the Internal Developer Platform (according to the principle of: "eat your own dog food")
 
 <div class="table-container">
   <table>
