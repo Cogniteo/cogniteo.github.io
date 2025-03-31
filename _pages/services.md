@@ -23,6 +23,8 @@ We help organizations:
 - **Lower Costs & Increase Flexibility**: Avoid vendor lock-in with open-source solutions and cloud-native technologies.
 - **Enable AI Agents**: Enable AI machinery on both sides: Internal Developer Platform engine and its Data Plane
 
+***
+
 # Platform Engineering Strategy & Advisory
 
 - Assessment of current infrastructure and developer workflows
@@ -50,6 +52,8 @@ We help organizations:
 - Hands-on workshops and knowledge transfer sessions
 - Platform engineering best practices and team enablement
 - Customized training on CNCF technologies and open-source tools
+
+***
 
 # Why Choose Us?
 - Vendor Independence: No lock-in, fully open-source-first approach
