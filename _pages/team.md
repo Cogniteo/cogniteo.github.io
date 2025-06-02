@@ -11,7 +11,7 @@ We are a team of independent experts with decades of experience in Platform Engi
   <div class="gallery gallery-columns-3">
     {% include img.html src ="/images/piotrszwed.jpeg" alt="Piotr Szwed" %}
     {% include img.html src ="/images/rafalmalanij.jpeg" alt="Rafal Malanij" %}
-    {% include img.html src ="/images/mateuszszymczyk.jpeg" alt="Mateusz Szymczyk" %}
+    {% include img.html src ="/images/wojtekbarczynski.jpeg" alt="Mateusz Szymczyk" %}
     {% include img.html src ="/images/pawelzmiejko.jpeg" alt="Pawel Zmiejko" %}
     {% include img.html src ="/images/rafalturowicz.jpeg" alt="Rafal Turowicz" %}
     {% include img.html src ="/images/pawelmincer.jpeg" alt="Pawel Mincer" %}
