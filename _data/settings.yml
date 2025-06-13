@@ -56,9 +56,9 @@ hero:
   enable: true
 #  hero_avatar: /images/01-1.jpg
   hero_title: AI Native Platform Engineering
-  hero_subtitle: Building Smarter, Leaner Platforms for the Enterprise
+  hero_subtitle: <b>Building Smarter, Leaner Platforms for the Enterprise</b>
 
-    We’re a team of battle-hardened engineers who have seen things… terrifying YAML files, rogue Terraform scripts, and Kubernetes clusters held together by sheer willpower. But fear not! We specialize in <b>Platform Engineering</b> and <b>Internal Developer Platforms (IDP)</b> – helping teams build self-service, scalable, and headache-free Developer experiences.
+    We’re a team of battle-hardened engineers who have seen things… terrifying YAML files, rogue Terraform scripts, and Kubernetes clusters held together by sheer willpower. But fear not! We specialize in <b>AI Native Platform Engineering</b> and <b>AI Native Internal Developer Platforms (IDP)</b> – helping teams build self-service, scalable, and headache-free Developer experiences.
 
     🚀 Less toil, more flow. More speed, less Ops. And definitely no more “it works on my machine” excuses.
   hero_image: /images/fulllogo.png
