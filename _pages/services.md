@@ -32,7 +32,6 @@ AI Native Platform Engineering redefines how infrastructure, internal developer 
 - Policy-as-code enhanced with adaptive AI guardrails  
 - Predictive scaling and healing based on ML signals
 
----
 
 ## Internal Developer Platforms (IDPs)
 
@@ -47,7 +46,6 @@ AI Native Platform Engineering redefines how infrastructure, internal developer 
 - GenAI-assisted scaffolding (services, configs, tests)  
 - Proactive improvement recommendations based on usage telemetry
 
----
 
 ## Kubernetes Operator Pattern & Platform Mesh
 
@@ -62,7 +60,6 @@ AI Native Platform Engineering redefines how infrastructure, internal developer 
 - Multi-tenant mesh routing based on workload predictions  
 - Resilient recovery through agent-based anomaly detection
 
----
 
 ## Autonomous AI Agents
 
@@ -78,8 +75,6 @@ AI Native Platform Engineering redefines how infrastructure, internal developer 
 - Intelligent runbooks and self-healing playbooks  
 - Infra copilots that recommend actions during outages
 
----
-
 ## Automation Frameworks
 
 **Controller Patterns**  
@@ -93,8 +88,6 @@ AI Native Platform Engineering redefines how infrastructure, internal developer 
 - AI-augmented drift detection and remediation  
 - Cross-layer correlation and orchestration of platform components
 
----
-
 ## Strategic Outcomes
 
 - **Faster Time to Value**: Self-service + automation + AI = delivery velocity  
@@ -102,8 +95,6 @@ AI Native Platform Engineering redefines how infrastructure, internal developer 
 - **Developer Experience**: Frictionless platform interactions  
 - **Compliance & Governance**: Policy-first infrastructure with AI validation  
 - **Cost Optimization**: Smart scaling, AI-guided cost controls
-
----
 
 ## Let’s Build the Future
 
