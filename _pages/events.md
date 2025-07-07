@@ -5,6 +5,12 @@ permalink: /events/
 image: '/images/ai-event.png'
 ---
 
+# Events Callendar
+
+You can subsrcibre to all future events here: [AI-Native Platform Engineering Events Callendar](https://lu.ma/ai-native-pe)
+
+# Upcoming Events
+
 <iframe
   src="https://lu.ma/embed/calendar/cal-yC6BAbHprCOH0ek/events"
   width="600"
