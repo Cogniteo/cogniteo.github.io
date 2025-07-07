@@ -1,17 +1,9 @@
 ---
 layout: page
-title: Internal Developer Platform
-permalink: /idp/
+title: AI-Native Platform
+permalink: /ai-native-platform/
 image: '/images/idp.jpg'
 ---
-
-# Platform Engineering
-
-Platform Engineering is the practice of designing, building, and maintaining self-service platforms to improve developer experience and efficiency. It focuses on creating standardized infrastructure, automation, and workflows that enable developers to deploy and manage applications seamlessly. Platform engineers build Internal Developer Platforms (IDPs) that integrate CI/CD, security, observability, and cloud resources, reducing operational overhead and fostering innovation.
-
-# Internal Developer Platform
-
-An Internal Developer Platform (IDP) is a self-service set of tools and services designed to streamline software development and deployment within an organization. It provides developers with standardized workflows, automation, and infrastructure management, enabling them to build, test, and deploy applications efficiently without relying heavily on operations teams. IDPs typically integrate CI/CD pipelines, Kubernetes, cloud resources, observability, and security policies, improving productivity, consistency, and scalability across engineering teams.
 
 ## Roles 
 
