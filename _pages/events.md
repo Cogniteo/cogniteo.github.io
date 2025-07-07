@@ -7,7 +7,7 @@ image: '/images/ai-event.png'
 
 # Events Callendar
 
-You can subsrcibre to all future events here: [AI-Native Platform Engineering Events Callendar](https://lu.ma/ai-native-pe)
+Subsrcibre to all events here: [AI-Native Platform Engineering Events Callendar](https://lu.ma/ai-native-pe)
 
 # Upcoming Events
 
