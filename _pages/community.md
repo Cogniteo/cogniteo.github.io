@@ -5,7 +5,7 @@ permalink: /community/
 image: '/images/ai-event.png'
 ---
 
-Become a member of our community. 
+Become a member of AI-Native Platform Engineering community. 
 
 Join us on:
 - [LinkedIn](https://www.linkedin.com/company/ai-native-platfrom-engineering/?viewAsMember=true)
