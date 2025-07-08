@@ -47,12 +47,6 @@ New Members undergo an incubation phase to ensure alignment with our principles 
 - Documentation update.
 - Exit interview.
 
-| Checklist of tools  |
-|------------------|
-| GitHub           |
-| Slack            |
-| Google Workspace |
-
 
 ## Decision-Making Framework
 
