@@ -26,24 +26,33 @@ Core Values:
 
 New Members undergo an incubation phase to ensure alignment with our principles and standards. This period allows for mutual assessment and skill development.
 
-Phases of Incubation:
-
-### Onboarding (Month 1)
+### Onboarding (Month 1-6)
 
 - Introduction to Collective's mission, processes, and ethical guidelines.
-- Pairing with a mentor for knowledge transfer.
+- Pairing with a mentor who guides through team organization and tool setup.
 - Initial skill assessment.
+- Providing a checklist.
 
-### Integration (Months 2-4)
+| Checklist of tasks                          |
+|---------------------------------------------|
+| Reviewing internal documentation             |
+| Configuring access to tools and systems     |
+| Attending team meetings to observe workflow |
+| Weekly feedback and performance review.     |
+| Independent exploration of tools and recources    |
 
-- Participation in real-world projects with senior consultants.
-- Bi-weekly feedback and performance review.
-- Contribution to internal knowledge-sharing initiatives.
+### Offboarding
+- Delegating duties and tasks to other co-workers.
+- Deprivation of access to all tools.
+- Documentation update.
+- Exit interview.
 
-### Evaluation & Decision (Months 5-6)
+| Checklist of tools  |
+|------------------|
+| GitHub           |
+| Slack            |
+| Google Workspace |
 
-- Final assessment based on project contributions and alignment with values.
-- Decision on full membership, extension of incubation, or offboarding with feedback.
 
 ## Decision-Making Framework
 
