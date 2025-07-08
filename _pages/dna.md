@@ -33,14 +33,6 @@ New Members undergo an incubation phase to ensure alignment with our principles 
 - Initial skill assessment.
 - Providing a checklist.
 
-| Checklist of tasks                          |
-|---------------------------------------------|
-| Reviewing internal documentation             |
-| Configuring access to tools and systems     |
-| Attending team meetings to observe workflow |
-| Weekly feedback and performance review.     |
-| Independent exploration of tools and recources    |
-
 ### Offboarding
 - Delegating duties and tasks to other co-workers.
 - Deprivation of access to all tools.
