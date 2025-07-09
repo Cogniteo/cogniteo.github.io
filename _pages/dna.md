@@ -31,7 +31,7 @@ New Members undergo an incubation phase to ensure alignment with our principles 
 - Introduction to Collective's mission, processes, and ethical guidelines.
 - Pairing with a mentor who guides through team organization and tool setup.
 - Initial skill assessment.
-- Providing a checklist.
+- Providing a checklist of tasks and tools.
 
 ### Offboarding
 - Delegating duties and tasks to other co-workers.
