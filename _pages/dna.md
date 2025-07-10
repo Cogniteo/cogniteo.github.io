@@ -70,3 +70,8 @@ Ethical Guidelines:
 - No Exploitative Contracts: Ensuring fair terms for both parties.
 
 By adhering to this DNA document, Cogniteo Collective ensures a culture of trust, innovation, and sustainable impact in the field of platform engineering.
+
+
+
+
+ _Inspired by Crisp DNA_
