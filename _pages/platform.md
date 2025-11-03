@@ -8,6 +8,46 @@ image: '/images/idp.jpg'
 {: .note }
 Harness the power of Apeiro Reference Architecture (https://apeirora.eu) to unify your services from hardware to software, deploying with Kubernetes' declarative power across any cloud and edge!
 
+## Recommended Platforms
+
+<div class="table-container">
+  <table>
+<tr>
+    <th>Platform</th>
+    <th>Contributors</th>
+    <th>Scope</th>
+    <th>Budget</th>
+    <th>License</th>
+    <th>URL</th>
+  </tr>
+  <tr>
+    <td><b>Apeiro Reference Architecture</b></td>
+    <td>SAP, European Union, Germany</td>
+    <th>Cloud, Edge, OnPrem</th>
+    <td>3,5~ bln Euro</td>
+    <td>Open Source (NeoNephos + CNCF)</td>
+    <td>https://apeirora.eu</td>
+  </tr>
+  <tr>
+    <td><b>CNOE</b></td>
+    <td>Cisco, Amazon</td>
+    <td>Cloud</td>
+    <td>Best Effort</td>
+    <td>Open Source (CNCF)</td>
+    <td>https://cnoe.io</td>
+  </tr>
+  <tr>
+    <td><b>openvela</b></td>
+    <td>Microsoft, Alibaba, Xiaomi</td>
+    <td>Cloud, IoT</td>
+    <td>Best Effort</td>
+    <td> Apache License, Version 2.0</td>
+    <td>https://github.com/open-vela</td>
+  </tr>
+  </table>
+</div>
+
+
 ## Architecture
 
 ![Internal Developer Platform]({{site.baseurl}}/images/reference.jpeg)
@@ -18,8 +58,8 @@ Harness the power of Apeiro Reference Architecture (https://apeirora.eu) to unif
   <table>
 <tr>
     <th>Component</th>
-    <th>Platform Engineer (Operator)</th>
-    <th>Developer (Software Builder)</th>
+    <th>Platform Engineer</th>
+    <th>Developer</th>
     <th>Manager</th>
     <th>Auditor</th>
   </tr>
