@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Platform
-permalink: /ai-native-platform/
+permalink: /platform/
 image: '/images/idp.jpg'
 ---
 
