@@ -5,10 +5,14 @@ permalink: /platform/
 image: '/images/idp.jpg'
 ---
 
-## Apeiro Reference Architecture: https://apeirora.eu 
-
 {: .note }
-Harness the 'batteries included' power of ApeiroRA to unify your services from hardware to software, deploying with Kubernetes' declarative power across any cloud and edge!
+Harness the power of Apeiro Reference Architecture (https://apeirora.eu) to unify your services from hardware to software, deploying with Kubernetes' declarative power across any cloud and edge!
+
+## Architecture
+
+![Internal Developer Platform]({{site.baseurl}}/images/reference.jpeg)
+
+## Platform
 
 <div class="table-container">
   <table>
@@ -85,6 +89,4 @@ Harness the 'batteries included' power of ApeiroRA to unify your services from h
   </table>
 </div>
 
-## Architecture
 
-![Internal Developer Platform]({{site.baseurl}}/images/reference.jpeg)
