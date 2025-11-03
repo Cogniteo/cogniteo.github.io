@@ -21,9 +21,9 @@ Harness the power of Apeiro Reference Architecture (https://apeirora.eu) to unif
     <th>URL</th>
   </tr>
   <tr>
-    <td><b>Apeiro Reference Architecture</b></td>
-    <td>SAP, European Union, Germany</td>
-    <th>Cloud, Edge, OnPrem</th>
+    <td><b>ApeiroRA</b></td>
+    <td>SAP, European Union</td>
+    <td>Cloud, Edge, OnPrem</td>
     <td>3,5~ bln Euro</td>
     <td>Open Source (NeoNephos + CNCF)</td>
     <td>https://apeirora.eu</td>
