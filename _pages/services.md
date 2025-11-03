@@ -7,12 +7,12 @@ image: '/images/services.jpg'
 
 # About Our Collective
 
-We specialize in **AI Native Platform Engineering** and the development of **AI Native Internal Developer Platforms (IDPs)** that empower engineering teams to ship software efficiently. Our approach is vendor-independent, leveraging open-source technologies and the **NeoNephos & Cloud Native Computing Foundation (CNCF) ecosystem** to create flexible, scalable, and cost-effective solutions.
+We specialize in **Platform Engineering** and the development of **AI-Native Platforms** that empower engineering teams to ship software efficiently. Our approach is vendor-independent, leveraging open-source technologies and the **NeoNephos & Cloud Native Computing Foundation (CNCF) ecosystem** to create flexible, scalable, and cost-effective solutions.
 
 
 ***
 
-# AI Native Platform Engineering
+# AI-Native Platform Engineering
 
 AI Native Platform Engineering redefines how infrastructure, internal developer platforms, and automation are built and managed. We bring together Kubernetes-native control loops, GitOps, and intelligent AI agents to deliver adaptive, scalable, and policy-driven platforms for modern enterprises.
 
@@ -26,7 +26,7 @@ AI Native Platform Engineering redefines how infrastructure, internal developer 
 - GitOps-driven Kubernetes environments  
 - Platform Mesh and control plane automation  
 
-**AI Native Expansion**  
+**AI-Native Expansion**  
 - Intelligent agents that respond to platform signals in real-time  
 - AI-generated infrastructure as code (Terraform, Helm, Crossplane)  
 - Policy-as-code enhanced with adaptive AI guardrails  
@@ -40,7 +40,7 @@ AI Native Platform Engineering redefines how infrastructure, internal developer 
 - Service Catalogs, Golden Paths, Dev portals  
 - Kubernetes-first GitOps pipelines  
 
-**AI Native**  
+**AI-Native**  
 - Conversational IDP interfaces (ChatOps for DevOps)  
 - Auto-onboarding of microservices from developer intent  
 - GenAI-assisted scaffolding (services, configs, tests)  
@@ -50,11 +50,11 @@ AI Native Platform Engineering redefines how infrastructure, internal developer 
 ## Kubernetes Operator Pattern & Platform Mesh
 
 **Today**  
-- Operator ecosystems: Crossplane, Cluster API, etc.  
-- Multi-cluster control planes and service meshes (Istio, Linkerd, Cilium)  
+- Operator ecosystems: Crossplane, ClusterAPI, Gardener, ASO, ACK, KCC
+- Multi-cluster control planes and service meshes
 - Mesh lifecycle automation  
 
-**AI Native**  
+**AI-Native**  
 - AI-augmented operators with feedback loops  
 - Policy-driven placement & AI-informed autoscaling  
 - Multi-tenant mesh routing based on workload predictions  
@@ -90,7 +90,7 @@ AI Native Platform Engineering redefines how infrastructure, internal developer 
 
 ## Strategic Outcomes
 
-- **Faster Time to Value**: Self-service + automation + AI = delivery velocity  
+- **Faster Time to Value**: Self-service + automation + AI 
 - **Reliability at Scale**: Intelligent remediation and consistency  
 - **Developer Experience**: Frictionless platform interactions  
 - **Compliance & Governance**: Policy-first infrastructure with AI validation  
@@ -102,7 +102,7 @@ AI Native Platform Engineering isn’t just a trend. It’s a shift in how platf
 
 # Why Choose Us?
 - Vendor Independence: No lock-in, fully open-source-first approach
-- Expertise in CNCF & Cloud-Native: Proven experience in Kubernetes, GitOps, and cloud-native stacks
-- Tailored Solutions: Every platform is designed to fit your engineering needs
-- End-to-End Support: From strategy to implementation and ongoing optimization
+- Expertise in CNCF & Cloud-Native: Proven experience in Kubernetes
+- Tailored Solutions: Every Platform is designed to fit your needs
+- End-to-End Support: From strategy to implementation and optimization
 - Collective Cooperation Model: Customer satisfaction above business
