@@ -27,8 +27,8 @@ menu_settings:
       url: '/'
     - title: "Services"
       url: '/services/'
-    - title: 'AI-Native Platform'
-      url: '/ai-native-platform/'
+    - title: 'Platform'
+      url: '/platform/'
     - title: 'AI-Native Platform Engineering'
       url: '/ai-native-pe/'
     - title: 'Community'
