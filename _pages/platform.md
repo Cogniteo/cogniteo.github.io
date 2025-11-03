@@ -5,7 +5,7 @@ permalink: /platform/
 image: '/images/idp.jpg'
 ---
 
-## Roles 
+## Apeiro Reference Architecture: https://apeirora.eu 
 
 {: .note }
 Harness the 'batteries included' power of ApeiroRA to unify your services from hardware to software, deploying with Kubernetes' declarative power across any cloud and edge!
