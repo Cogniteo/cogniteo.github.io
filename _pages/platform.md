@@ -6,7 +6,7 @@ image: '/images/idp.jpg'
 ---
 
 {: .note }
-Harness the power of Apeiro Reference Architecture (https://apeirora.eu) to unify your services from hardware to software, deploying with Kubernetes' declarative power across any cloud and edge!
+HWe recommend Apeiro Reference Architecture (https://apeirora.eu) to unify your services from Hardware to Software, deploying with Kubernetes' declarative power across any Cloud and Edge!
 
 ## Recommended Platforms
 
@@ -52,7 +52,7 @@ Harness the power of Apeiro Reference Architecture (https://apeirora.eu) to unif
 
 ![Internal Developer Platform]({{site.baseurl}}/images/reference.jpeg)
 
-## Platform
+## Platform Components
 
 <div class="table-container">
   <table>
