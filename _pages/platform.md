@@ -16,7 +16,6 @@ We recommend Apeiro Reference Architecture (https://apeirora.eu) to unify your s
     <th>Platform</th>
     <th>Contributors</th>
     <th>Scope</th>
-    <th>Budget</th>
     <th>License</th>
     <th>URL</th>
   </tr>
@@ -24,25 +23,36 @@ We recommend Apeiro Reference Architecture (https://apeirora.eu) to unify your s
     <td><b>ApeiroRA</b></td>
     <td>SAP, European Union</td>
     <td>Cloud, Edge, OnPrem</td>
-    <td>3,5~ bln Euro</td>
     <td>Open Source (NeoNephos + CNCF)</td>
-    <td>https://apeirora.eu</td>
+    <td>[https://apeirora.eu](https://apeirora.eu)</td>
   </tr>
   <tr>
     <td><b>CNOE</b></td>
     <td>Cisco, Amazon</td>
     <td>Cloud</td>
-    <td>Best Effort</td>
     <td>Open Source (CNCF)</td>
-    <td>https://cnoe.io</td>
+    <td>[https://cnoe.io](https://cnoe.io)</td>
   </tr>
   <tr>
     <td><b>openvela</b></td>
     <td>Microsoft, Alibaba, Xiaomi</td>
     <td>Cloud, IoT</td>
-    <td>Best Effort</td>
     <td> Apache License, Version 2.0</td>
-    <td>https://github.com/open-vela</td>
+    <td>[https://github.com/open-vela](https://github.com/open-vela)</td>
+  </tr>
+  <tr>
+    <td><b>PlatformMesh (kcp)</b></td>
+    <td>SAP, Kubermatic</td>
+    <td>REST API</td>
+    <td>Open Source (NeoNephos)</td>
+    <td>[https://platform-mesh.io](https://platform-mesh.io)</td>
+  </tr>
+  <tr>
+    <td><b>Agentgateway</b></td>
+    <td>Solo.io</td>
+    <td>MCP & A2A</td>
+    <td>Open Source (CNCF)</td>
+    <td>[https://agentgateway.dev](https://agentgateway.dev)</td>
   </tr>
   </table>
 </div>
