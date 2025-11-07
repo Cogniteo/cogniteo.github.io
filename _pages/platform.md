@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Platform
-permalink: /platform/
+title: Platforms
+permalink: /platforms/
 image: '/images/idp.jpg'
 ---
 
@@ -62,7 +62,7 @@ We recommend Apeiro Reference Architecture (https://apeirora.eu) to unify your s
 
 ![Internal Developer Platform]({{site.baseurl}}/images/reference.jpeg)
 
-## Platform Components
+## Core Components
 
 <div class="table-container">
   <table>
