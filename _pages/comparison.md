@@ -5,9 +5,9 @@ permalink: /comparison/
 image: '/images/pe.jpg'
 ---
 
-# Comparative Architecture Analysis: Internal Developer Platforms & AI-Native Platforms
+# Comparative Architecture Analysis
 
-This comparison matrix is designed to provide a strategic overview of the key architectural differences between three primary platform archetypes:
+This Comparison Matrix is designed to provide a strategic overview of the key architectural differences between three primary platform archetypes:
 
 - Internal Developer Platforms (IDP)
 - General Application Platforms (Platform-as-a-Service - PaaS)
