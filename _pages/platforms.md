@@ -5,10 +5,7 @@ permalink: /platforms/
 image: '/images/idp.jpg'
 ---
 
-{: .note }
-We recommend Apeiro Reference Architecture (https://apeirora.eu) to unify your services from Hardware to Software, deploying with Kubernetes' declarative power across any Cloud and Edge!
-
-## Recommended Platforms & Platform Mesh
+# Recommended Platforms & Platform Mesh
 
 <div class="table-container">
   <table>
@@ -57,12 +54,12 @@ We recommend Apeiro Reference Architecture (https://apeirora.eu) to unify your s
   </table>
 </div>
 
+{: .note }
+We recommend Apeiro Reference Architecture (https://apeirora.eu) to unify your services from Hardware to Software, deploying with Kubernetes' declarative power across any Cloud and Edge!
 
-## Architecture
+# Architecture
 
 ![Internal Developer Platform]({{site.baseurl}}/images/reference.jpeg)
-
-## Apeiro Reference Architecture
 
 # Apeiro Platform Mesh
 
