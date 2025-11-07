@@ -74,7 +74,7 @@ This framework aims to transcend the traditional layered approach of strictly se
 The reference architecture includes several common, but optional services. For a comprehensive list of these projects, visit the Apeiro Reference Architecture website. For example, Apeiro offers a Kubernetes environment through the Gardener project, but its use is not mandatory for applications. Other Kubernetes providers can also offer their services within the mesh. This flexibility gives developers more choices and helps prevent lock-in to a particular service supplier.
 
 
-## Core Components
+# Components
 
 <div class="table-container">
   <table>
