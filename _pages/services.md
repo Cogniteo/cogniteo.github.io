@@ -7,14 +7,13 @@ image: '/images/services.jpg'
 
 # About Our Collective
 
-We specialize in **Platform Engineering** and the development of **AI-Native Platforms** that empower engineering teams to ship software efficiently. Our approach is vendor-independent, leveraging open-source technologies and the **NeoNephos & Cloud Native Computing Foundation (CNCF)** ecosystem* to create flexible, scalable, and cost-effective solutions.
-
+We specialize in **Platform Engineering** and the development of **AI-Native Platforms** that empower engineering teams to ship software efficiently. Our approach is vendor-independent, leveraging open-source technologies and the **NeoNephos & Cloud Native Computing Foundation (CNCF)** ecosystem to create flexible, scalable, and cost-effective solutions.
 
 ***
 
 # AI-Native Platform Engineering
 
-**AI-Native Platform Engineering** redefines how Infrastructure, Internal Developer Platforms, and Automation are built and managed. We bring together Kubernetes-native control loops, GitOps, and intelligent AI Agents to deliver adaptive, scalable, and policy-driven platforms for modern Enterprises.
+**AI-Native Platform Engineering** redefines how Infrastructure, Internal Developer Platforms, and Automation are built and managed. We bring together Kubernetes-native Control Loops, GitOps, and intelligent AI Agents to deliver adaptive, scalable, and policy-driven platforms for modern Enterprises.
 
 ---
 
@@ -25,31 +24,29 @@ We specialize in **Platform Engineering** and the development of **AI-Native Pla
 - GitOps-driven Kubernetes environments  
 - Platform Mesh and control plane automation  
 - Intelligent agents that respond to platform signals in real-time  
-- AI-generated infrastructure as code (Helm, Crossplane, ClusterAPI, ACK, ASO, KCC, etc..)  
+- AI-generated infrastructure as code (Crossplane, ClusterAPI, etc..)
 - Policy-as-code enhanced with adaptive AI guardrails  
 - Predictive scaling and healing based on ML signals
 
 ## Internal Developer Platforms (IDPs)
 
-- Architectures with Backstage, Port, Cortex, Humanitec  
-- Service Catalogs, Golden Paths, Dev portals  
 - Kubernetes-first GitOps pipelines  
+- Architectures with Backstage, Port, Cortex, OpenMFP  
+- Service Catalogs, Golden Paths, Dev portals  
 - Conversational IDP interfaces (ChatOps for DevOps)  
 - Auto-onboarding of microservices from developer intent  
 - GenAI-assisted scaffolding (services, configs, tests)  
 - Proactive improvement recommendations based on usage telemetry
 
-
 ## Kubernetes Operator Pattern & Platform Mesh
 
-- Operator ecosystems: Crossplane, ClusterAPI, Gardener, ASO, ACK, KCC
+- Operators: Crossplane, ClusterAPI, Gardener, ASO, ACK, KCC
 - Multi-cluster control planes and service meshes
-- Mesh lifecycle automation  
+- PlatformMesh lifecycle automation  
 - AI-augmented operators with feedback loops  
 - Policy-driven placement & AI-informed autoscaling  
 - Multi-tenant mesh routing based on workload predictions  
 - Resilient recovery through agent-based anomaly detection
-
 
 ## Autonomous AI Agents
 
