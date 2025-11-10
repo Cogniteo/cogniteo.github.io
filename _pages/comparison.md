@@ -33,58 +33,57 @@ Last Update: 10.11.2025
 
 | Feature/Capabilities | ApeiroRA | CNOE | Kubevela | Kubermatic | Kubara | Krateo | Humanitec |
 | ----- | :---: | ----- | ----- | :---: | ----- | ----- | ----- |
-| Score |  |  |  |  |  |  |  |
-| **High Level Architecture** SaaS (blocker) vs OnPrem vs both Monolith/Microservice/Serverless Distributed, SQL, NoSQL, Events |  |  |  |  |  |  |  |
-| **Scale** Enterprise & Startups Small Medium Business (CMB) Hyperscalers & Goverment |  |  |  |  |  |  |  |
-| **Scope** Public/Hybrid/Private Cloud On Device, On-premise, IoT Far, Near, Regional Edge, Telco |  |  |  |  |  |  |  |
-| **Security** Zero-Trust, Zero-day patching Policy as Code, Secure-by-Default Full Observability & Auditing |  |  |  |  |  |  |  |
-| **Tech Stack** Golang (95%), Python (4%), Java Microservices, Monolith K8s-centric (not JVM) |  |  |  |  |  |  |  |
-| **Recognized by Gartner & Forrester** Enterprise-Grade Support Magic Quadrant & Wave Future oriented (Hype Cycle) |  |  |  |  |  |  |  |
-| **100% Open Source** MIT, Apache, GNU Licensing Linux Foundation (NeoNephos) CNCF Landscape |  |  |  |  |  |  |  |
-| **Data Sovereignty and Residency Controls** EU sovereignty (100% control) Linux Foundation Europe NeoNephos & European Union |  |  |  |  |  |  |  |
-| **Industry Compliance Standards** ISO 27001, 9001 (readiness) SOC2, HIPAA (readiness) CNCF Certified Provider |  |  |  |  |  |  |  |
-| **Centralized RBAC & Indentity** Segregation of duty (SoD) Service Providers & Consumers Federated Identity and Access |  |  |  |  |  |  |  |
-| **5x Key Interfaces** 1x Command Line Client (CLI) 2x Frontend Portal \+ Backend 2x AI (MCP/A2A) \+ REST API) |  |  |  |  |  |  |  |
-| **API First (Declarative)** OpenAPI \+ Swagger Contract-driven design REST, Events, Binary, Specific |  |  |  |  |  |  |  |
-| **Command Line Client (CLI)(??)** Golang (python) binary Compatible with K8s and kubectl Imperative and declarative (edit) |  |  |  |  |  |  |  |
-| **Multifrontend Portal** Zero-Touch Integration (Runtime) Multiple Services with unified UI Context-Aware Composition |  |  |  |  |  |  |  |
-| **B2B Service Marketplace (Discovery)** API-Driven Service Management Event-Based or Pub/Sub Vendor/Service Catalog |  |  |  |  |  |  |  |
-| **Infrastructure Abstraction** One-liners (Compositions) Override available if needed YAML/KYAML/JSON everywhere |  |  |  |  |  |  |  |
-| **MultiCloud (unified)** Public/Hybrid/Private Cloud Internal & Virtual Cloud Single switch Cloud selector |  |  |  |  |  |  |  |
-| **Reconciliation loop (not CI/CD)** PID & Controller Pattern Kubernetes Operators Digital Twins, KRM or similar |  |  |  |  |  |  |  |
-| **Distributed Architecture (Quorum?)** HA with Rolling Upgrades RAFT or PAXOS (leader election) No Single Point of Failure |  |  |  |  |  |  |  |
-| **API Mesh & Platform Mesh (new)** Multi-tenant Control Planes Service Provider Integration API Centric & API Federation |  |  |  |  |  |  |  |
-| **AI Agent Gateway (new)** MCP & A2A Native support Enterprise-Grade Security Agents, Tools and LLMs support |  |  |  |  |  |  |  |
-| **Bare Metal Support** Network & Storage Interface Container Runtime Interface Support for iPXE/HTTPBoot |  |  |  |  |  |  |  |
-| **Event Bus (watch)** Pub/Sub communication model Extensibility for Automation Decoupled Communication |  |  |  |  |  |  |  |
-| **Distributed Database (NoSQL vs SQL)** Rolling schema upgrades Horizontal scalability Fault Tolerance and Low Latency |  |  |  |  |  |  |  |
-| **Finite State Machine** Deterministic & Declarative States Transient and Steady States Acceptors, Classifiers, Checkpoint |  |  |  |  |  |  |  |
-| **Open Roadmap** Community & Feedback Strategic Goals & Vision Short/Mid/Long Term Roadmap |  |  |  |  |  |  |  |
-| **Disaster recovery** Failover & Failback (max 60min) Recovery Time Objective (RTO) Backup & Replication |  |  |  |  |  |  |  |
-| **Chicken-or-egg Problem** Makefile & Docker & CI/CD Managed Control Plane Tooling Live CRD Migrations, Pivoting |  |  |  |  |  |  |  |
-| **Service Discovery** Discovery for new APIs Self Describing Services (SBoD) Service Catalog (API Marketplace) |  |  |  |  |  |  |  |
-| **Extensibility** Creation of new API types (CRD) Seamless Integration Extension API Server |  |  |  |  |  |  |  |
-| **Multicluster (K8s) Federation** Multicluster Controllers (RO/RW) Multiversion Support (on the fly) Single action executed Globally |  |  |  |  |  |  |  |
-| **Seamless Provider to Consumer (P2C)** Services exposed to Consumers Open Service Broker API Internal & External |  |  |  |  |  |  |  |
-| **Seamless Provider to Provider (P2P)** Reseller model Dependency on other Providers Extending other Providers |  |  |  |  |  |  |  |
-| **Seamless Consumer to Consumer (C2C)** Exchange between internal teams Microservies integration/testing External internal consumers |  |  |  |  |  |  |  |
-| **PlatformMesh to PlatformMesh** Exchange between two entities Both entities use PlatformMesh Similar to P2P model |  |  |  |  |  |  |  |
-| **Control through Choreography** Orchestration: tightly coupled Autonomous & Decentralized “Self-interest” more robust |  |  |  |  |  |  |  |
-| **Naming Convention** Descriptive & Structured Length, Uniqueness Labels, Annotations |  |  |  |  |  |  |  |
-| **Isolation Levels** Namespace as a Service Kubernetes/VPC as a Service Hosted Control Planes |  |  |  |  |  |  |  |
-| **Implementation Effort** Transparent Migrations Adoption Model, Buy vs Build Evolution, not Revolution |  |  |  |  |  |  |  |
-| **AI-Native Capabilities** AI Ready, AI Driven, Intent Driven Agent Mesh, Agent Gateway LLM Support, LLM Runtime |  |  |  |  |  |  |  |
-| **Documentation** Auto-generation \- selected areas Full Architecture and Design Citations/Bibliography/References |  |  |  |  |  |  |  |
-| **Golden Paths** Custom Golden Paths Predefined set of defaults API First approach (no template) |  |  |  |  |  |  |  |
-| **CMDB Integration (Audit Trail)** All changes reflected in CMDB Read/Write (e.g. Freeze Period) Ideally event based (watch) |  |  |  |  |  |  |  |
-| **Self-healing (Data Plane)** Failover and Leader Election Data Recovery & Re-synchronize Rebalancing, Fixing Drifts, Backup |  |  |  |  |  |  |  |
-| **Drift Detection (Real Time)** Reconciliation Loop (internal) Deep Monitoring (App-Aware) Detailed Status Feedback |  |  |  |  |  |  |  |
-| **FinOps** Cost Analysis per Team & Product Shared Resources, Rightsizing Awareness & Real Time |  |  |  |  |  |  |  |
-| **Platform Roles** Developer vs SRE vs FinOps Dynamic UI/API Perspectives Policy-as-Code Control |  |  |  |  |  |  |  |
-| **Software Defined Networking** Centralized SDN Controller Network Programmability Native Integration |  |  |  |  |  |  |  |
-| **Observability** Logs, Metris, Signals OpenTelemetry & Tracing Intelligent Anomaly Detection |  |  |  |  |  |  |  |
-| **Agent Swarm** Built-in support for n+ agents Agent Supervisor, Meta Agent Agent to Agent Communication |  |  |  |  |  |  |  |
-|  **Score** |  |  |  |  |  |  |  |
+| Score | | | | | | | |
+| **High Level Architecture**<br><ul><li>SaaS (blocker) vs OnPrem vs both</li><li>Monolith/Microservice/Serverless</li><li>Distributed, SQL, NoSQL, Events</li></ul> | | | | | | | |
+| **Scale**<br><ul><li>Enterprise & Startups</li><li>Small Medium Business (CMB)</li><li>Hyperscalers & Goverment</li></ul> | | | | | | | |
+| **Scope**<br><ul><li>Public/Hybrid/Private Cloud</li><li>On Device, On-premise, IoT</li><li>Far, Near, Regional Edge, Telco</li></ul> | | | | | | | |
+| **Security**<br><ul><li>Zero-Trust, Zero-day patching</li><li>Policy as Code, Secure-by-Default</li><li>Full Observability & Auditing</li></ul> | | | | | | | |
+| **Tech Stack**<br><ul><li>Golang (95%), Python (4%), Java</li><li>Microservices, Monolith</li><li>K8s-centric (not JVM)</li></ul> | | | | | | | |
+| **Recognized by Gartner & Forrester**<br><ul><li>Enterprise-Grade Support</li><li>Magic Quadrant & Wave</li><li>Future oriented (Hype Cycle)</li></ul> | | | | | | | |
+| **100% Open Source**<br><ul><li>MIT, Apache, GNU Licensing</li><li>Linux Foundation (NeoNephos)</li><li>CNCF Landscape</li></ul> | | | | | | | |
+| **Data Sovereignty and Residency Controls**<br><ul><li>EU sovereignty (100% control)</li><li>Linux Foundation Europe</li><li>NeoNephos & European Union</li></ul> | | | | | | | |
+| **Industry Compliance Standards**<br><ul><li>ISO 27001, 9001 (readiness)</li><li>SOC2, HIPAA (readiness)</li><li>CNCF Certified Provider</li></ul> | | | | | | | |
+| **Centralized RBAC & Indentity**<br><ul><li>Segregation of duty (SoD)</li><li>Service Providers & Consumers</li><li>Federated Identity and Access</li></ul> | | | | | | | |
+| **5x Key Interfaces**<br><ul><li>1x Command Line Client (CLI)</li><li>2x Frontend Portal + Backend</li><li>2x AI (MCP/A2A) + REST API</li></ul> | | | | | | | |
+| **API First (Declarative)**<br><ul><li>OpenAPI + Swagger</li><li>Contract-driven design</li><li>REST, Events, Binary, Specific</li></ul> | | | | | | | |
+| **Command Line Client (CLI)(??)**<br><ul><li>Golang (python) binary</li><li>Compatible with K8s and kubectl</li><li>Imperative and declarative (edit)</li></ul> | | | | | | | |
+| **Multifrontend Portal**<br><ul><li>Zero-Touch Integration (Runtime)</li><li>Multiple Services with unified UI</li><li>Context-Aware Composition</li></ul> | | | | | | | |
+| **B2B Service Marketplace (Discovery)**<br><ul><li>API-Driven Service Management</li><li>Event-Based or Pub/Sub</li><li>Vendor/Service Catalog</li></ul> | | | | | | | |
+| **Infrastructure Abstraction**<br><ul><li>One-liners (Compositions)</li><li>Override available if needed</li><li>YAML/KYAML/JSON everywhere</li></ul> | | | | | | | |
+| **MultiCloud (unified)**<br><ul><li>Public/Hybrid/Private Cloud</li><li>Internal & Virtual Cloud</li><li>Single switch Cloud selector</li></ul> | | | | | | | |
+| **Reconciliation loop (not CI/CD)**<br><ul><li>PID & Controller Pattern</li><li>Kubernetes Operators</li><li>Digital Twins, KRM or similar</li></ul> | | | | | | | |
+| **Distributed Architecture (Quorum?)**<br><ul><li>HA with Rolling Upgrades</li><li>RAFT or PAXOS (leader election)</li><li>No Single Point of Failure</li></ul> | | | | | | | |
+| **API Mesh & Platform Mesh (new)**<br><ul><li>Multi-tenant Control Planes</li><li>Service Provider Integration</li><li>API Centric & API Federation</li></ul> | | | | | | | |
+| **AI Agent Gateway (new)**<br><ul><li>MCP & A2A Native support</li><li>Enterprise-Grade Security</li><li>Agents, Tools and LLMs support</li></ul> | | | | | | | |
+| **Bare Metal Support**<br><ul><li>Network & Storage Interface</li><li>Container Runtime Interface</li><li>Support for iPXE/HTTPBoot</li></ul> | | | | | | | |
+| **Event Bus (watch)**<br><ul><li>Pub/Sub communication model</li><li>Extensibility for Automation</li><li>Decoupled Communication</li></ul> | | | | | | | |
+| **Distributed Database (NoSQL vs SQL)**<br><ul><li>Rolling schema upgrades</li><li>Horizontal scalability</li><li>Fault Tolerance and Low Latency</li></ul> | | | | | | | |
+| **Finite State Machine**<br><ul><li>Deterministic & Declarative States</li><li>Transient and Steady States</li><li>Acceptors, Classifiers, Checkpoint</li></ul> | | | | | | | |
+| **Open Roadmap**<br><ul><li>Community & Feedback</li><li>Strategic Goals & Vision</li><li>Short/Mid/Long Term Roadmap</li></ul> | | | | | | | |
+| **Disaster recovery**<br><ul><li>Failover & Failback (max 60min)</li><li>Recovery Time Objective (RTO)</li><li>Backup & Replication</li></ul> | | | | | | | |
+| **Chicken-or-egg Problem**<br><ul><li>Makefile & Docker & CI/CD</li><li>Managed Control Plane Tooling</li><li>Live CRD Migrations, Pivoting</li></ul> | | | | | | | |
+| **Service Discovery**<br><ul><li>Discovery for new APIs</li><li>Self Describing Services (SBoD)</li><li>Service Catalog (API Marketplace)</li></ul> | | | | | | | |
+| **Extensibility**<br><ul><li>Creation of new API types (CRD)</li><li>Seamless Integration</li><li>Extension API Server</li></ul> | | | | | | | |
+| **Multicluster (K8s) Federation**<br><ul><li>Multicluster Controllers (RO/RW)</li><li>Multiversion Support (on the fly)</li><li>Single action executed Globally</li></ul> | | | | | | | |
+| **Seamless Provider to Consumer (P2C)**<br><ul><li>Services exposed to Consumers</li><li>Open Service Broker API</li><li>Internal & External</li></ul> | | | | | | | |
+| **Seamless Provider to Provider (P2P)**<br><ul><li>Reseller model</li><li>Dependency on other Providers</li><li>Extending other Providers</li></ul> | | | | | | | |
+| **Seamless Consumer to Consumer (C2C)**<br><ul><li>Exchange between internal teams</li><li>Microservies integration/testing</li><li>External internal consumers</li></ul> | | | | | | | |
+| **PlatformMesh to PlatformMesh**<br><ul><li>Exchange between two entities</li><li>Both entities use PlatformMesh</li><li>Similar to P2P model</li></ul> | | | | | | | |
+| **Control through Choreography**<br><ul><li>Orchestration: tightly coupled</li><li>Autonomous & Decentralized</li><li>“Self-interest” more robust</li></ul> | | | | | | | |
+| **Naming Convention**<br><ul><li>Descriptive & Structured</li><li>Length, Uniqueness</li><li>Labels, Annotations</li></ul> | | | | | | | |
+| **Isolation Levels**<br><ul><li>Namespace as a Service</li><li>Kubernetes/VPC as a Service</li><li>Hosted Control Planes</li></ul> | | | | | | | |
+| **Implementation Effort**<br><ul><li>Transparent Migrations</li><li>Adoption Model, Buy vs Build</li><li>Evolution, not Revolution</li></ul> | | | | | | | |
+| **AI-Native Capabilities**<br><ul><li>AI Ready, AI Driven, Intent Driven</li><li>Agent Mesh, Agent Gateway</li><li>LLM Support, LLM Runtime</li></ul> | | | | | | | |
+| **Documentation**<br><ul><li>Auto-generation - selected areas</li><li>Full Architecture and Design</li><li>Citations/Bibliography/References</li></ul> | | | | | | | |
+| **Golden Paths**<br><ul><li>Custom Golden Paths</li><li>Predefined set of defaults</li><li>API First approach (no template)</li></ul> | | | | | | | |
+| **CMDB Integration (Audit Trail)**<br><ul><li>All changes reflected in CMDB</li><li>Read/Write (e.g. Freeze Period)</li><li>Ideally event based (watch)</li></ul> | | | | | | | |
+| **Self-healing (Data Plane)**<br><ul><li>Failover and Leader Election</li><li>Data Recovery & Re-synchronize</li><li>Rebalancing, Fixing Drifts, Backup</li></ul> | | | | | | | |
+| **Drift Detection (Real Time)**<br><ul><li>Reconciliation Loop (internal)</li><li>Deep Monitoring (App-Aware)</li><li>Detailed Status Feedback</li></ul> | | | | | | | |
+| **FinOps**<br><ul><li>Cost Analysis per Team & Product</li><li>Shared Resources, Rightsizing</li><li>Awareness & Real Time</li></ul> | | | | | | | |
+| **Platform Roles**<br><ul><li>Developer vs SRE vs FinOps</li><li>Dynamic UI/API Perspectives</li><li>Policy-as-Code Control</li></ul> | | | | | | | |
+| **Software Defined Networking**<br><ul><li>Centralized SDN Controller</li><li>Network Programmability</li><li>Native Integration</li></ul> | | | | | | | |
+| **Observability**<br><ul><li>Logs, Metris, Signals</li><li>OpenTelemetry & Tracing</li><li>Intelligent Anomaly Detection</li></ul> | | | | | | | |
+| **Agent Swarm**<br><ul><li>Built-in support for n+ agents</li><li>Agent Supervisor, Meta Agent</li><li>Agent to Agent Communication</li></ul> | | | | | | | |
 
 # Assumptions:
 
