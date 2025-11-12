@@ -31,10 +31,7 @@ Score: <0 = Not a Platform <br>
 
 # Platform Excellence Matrix ver 1.0
 
-Last Update: 12.11.2025
-
-Source: https://docs.google.com/document/d/1UoP_lncQHX6DVSBn4lhBPds3mh5xoHMSpfhynrvWBhY/edit?usp=sharing
-(read only)
+[Source: Platform Excellence Matrix ver 1.0](https://docs.google.com/document/d/1UoP_lncQHX6DVSBn4lhBPds3mh5xoHMSpfhynrvWBhY/edit?usp=sharing)
 
 <table>
   <thead>
