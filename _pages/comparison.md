@@ -48,7 +48,7 @@ Last Update: 12.11.2025
   </thead>
   <tbody>
     <tr>
-      <td>Score</td>
+      <td><strong>Score</strong></td>
       <td></td>
       <td></td>
       <td></td>
