@@ -48,7 +48,7 @@ Last Update: 12.11.2025
   </thead>
   <tbody>
     <tr>
-      <td><strong>Score</strong></td>
+      <td>Score</td>
       <td></td>
       <td></td>
       <td></td>
@@ -61,9 +61,9 @@ Last Update: 12.11.2025
       <td>
         <strong>High Level Architecture</strong>
         <ul style="margin-bottom: 0;">
-          <li>SaaS (blocker) vs OnPrem</li>
-          <li>Monolith, Microservices</li>
-          <li>Distributed, (No)SQL, EventBus</li>
+          <li>SaaS (blocker) vs OnPrem vs both</li>
+          <li>Monolith/Microservice/Serverless</li>
+          <li>Distributed, SQL, NoSQL, Events</li>
         </ul>
       </td>
       <td></td>
@@ -97,7 +97,7 @@ Last Update: 12.11.2025
         <ul style="margin-bottom: 0;">
           <li>Public/Hybrid/Private Cloud</li>
           <li>On Device, On-premise, IoT</li>
-          <li>Far, Near, Regional Edge</li>
+          <li>Far, Near, Regional Edge, Telco</li>
         </ul>
       </td>
       <td></td>
@@ -113,7 +113,7 @@ Last Update: 12.11.2025
         <strong>Security</strong>
         <ul style="margin-bottom: 0;">
           <li>Zero-Trust, Zero-day patching</li>
-          <li>Policy as Code, SBoD & SBoM</li>
+          <li>Policy as Code, Secure-by-Default</li>
           <li>Full Observability & Auditing</li>
         </ul>
       </td>
@@ -129,7 +129,7 @@ Last Update: 12.11.2025
       <td>
         <strong>Tech Stack</strong>
         <ul style="margin-bottom: 0;">
-          <li>Golang (95%), Python (4%)</li>
+          <li>Golang (95%), Python (4%), Java</li>
           <li>Microservices, Monolith</li>
           <li>K8s-centric (not JVM)</li>
         </ul>
@@ -178,7 +178,7 @@ Last Update: 12.11.2025
     </tr>
     <tr>
       <td>
-        <strong>Data Sovereignty and Residency</strong>
+        <strong>Data Sovereignty and Residency Controls</strong>
         <ul style="margin-bottom: 0;">
           <li>EU sovereignty (100% control)</li>
           <li>Linux Foundation Europe</li>
@@ -250,7 +250,7 @@ Last Update: 12.11.2025
         <ul style="margin-bottom: 0;">
           <li>OpenAPI + Swagger</li>
           <li>Contract-driven design</li>
-          <li>REST API, Events, Binary</li>
+          <li>REST, Events, Binary, Specific</li>
         </ul>
       </td>
       <td></td>
@@ -266,8 +266,8 @@ Last Update: 12.11.2025
         <strong>Command Line Client (CLI)(??)</strong>
         <ul style="margin-bottom: 0;">
           <li>Golang (python) binary</li>
-          <li>Compatible with kubectl</li>
-          <li>Imperative and Declarative</li>
+          <li>Compatible with K8s and kubectl</li>
+          <li>Imperative and declarative (edit)</li>
         </ul>
       </td>
       <td></td>
@@ -280,10 +280,10 @@ Last Update: 12.11.2025
     </tr>
     <tr>
       <td>
-        <strong>Microfrontend Portal</strong>
+        <strong>Multifrontend Portal</strong>
         <ul style="margin-bottom: 0;">
-          <li>Zero-Touch Integration</li>
-          <li>Unified UI for Services</li>
+          <li>Zero-Touch Integration (Runtime)</li>
+          <li>Multiple Services with unified UI</li>
           <li>Context-Aware Composition</li>
         </ul>
       </td>
@@ -297,7 +297,7 @@ Last Update: 12.11.2025
     </tr>
     <tr>
       <td>
-        <strong>B2B Service Marketplace</strong>
+        <strong>B2B Service Marketplace (Discovery)</strong>
         <ul style="margin-bottom: 0;">
           <li>API-Driven Service Management</li>
           <li>Event-Based or Pub/Sub</li>
@@ -365,10 +365,10 @@ Last Update: 12.11.2025
     </tr>
     <tr>
       <td>
-        <strong>Distributed Architecture</strong>
+        <strong>Distributed Architecture (Quorum?)</strong>
         <ul style="margin-bottom: 0;">
           <li>HA with Rolling Upgrades</li>
-          <li>RAFT or PAXOS (quorum)</li>
+          <li>RAFT or PAXOS (leader election)</li>
           <li>No Single Point of Failure</li>
         </ul>
       </td>
@@ -403,7 +403,7 @@ Last Update: 12.11.2025
         <ul style="margin-bottom: 0;">
           <li>MCP & A2A Native support</li>
           <li>Enterprise-Grade Security</li>
-          <li>Agents, Tools and LLMs</li>
+          <li>Agents, Tools and LLMs support</li>
         </ul>
       </td>
       <td></td>
@@ -450,11 +450,11 @@ Last Update: 12.11.2025
     </tr>
     <tr>
       <td>
-        <strong>Distributed Database (NoSQ)</strong>
+        <strong>Distributed Database (NoSQL vs SQL)</strong>
         <ul style="margin-bottom: 0;">
           <li>Rolling schema upgrades</li>
           <li>Horizontal scalability</li>
-          <li>Fault Tolerance, Low Latency</li>
+          <li>Fault Tolerance and Low Latency</li>
         </ul>
       </td>
       <td></td>
@@ -471,7 +471,7 @@ Last Update: 12.11.2025
         <ul style="margin-bottom: 0;">
           <li>Deterministic & Declarative States</li>
           <li>Transient and Steady States</li>
-          <li>Acceptors, Classifiers</li>
+          <li>Acceptors, Classifiers, Checkpoint</li>
         </ul>
       </td>
       <td></td>
@@ -503,7 +503,7 @@ Last Update: 12.11.2025
       <td>
         <strong>Disaster recovery</strong>
         <ul style="margin-bottom: 0;">
-          <li>Failover & Failback</li>
+          <li>Failover & Failback (max 60min)</li>
           <li>Recovery Time Objective (RTO)</li>
           <li>Backup & Replication</li>
         </ul>
@@ -538,8 +538,8 @@ Last Update: 12.11.2025
         <strong>Service Discovery</strong>
         <ul style="margin-bottom: 0;">
           <li>Discovery for new APIs</li>
-          <li>Self Describing Services</li>
-          <li>Service Catalog (API Hub)</li>
+          <li>Self Describing Services (SBoD)</li>
+          <li>Service Catalog (API Marketplace)</li>
         </ul>
       </td>
       <td></td>
@@ -554,7 +554,7 @@ Last Update: 12.11.2025
       <td>
         <strong>Extensibility</strong>
         <ul style="margin-bottom: 0;">
-          <li>Creation of new API types</li>
+          <li>Creation of new API types (CRD)</li>
           <li>Seamless Integration</li>
           <li>Extension API Server</li>
         </ul>
@@ -571,9 +571,9 @@ Last Update: 12.11.2025
       <td>
         <strong>Multicluster (K8s) Federation</strong>
         <ul style="margin-bottom: 0;">
-          <li>Multicluster Controllers</li>
-          <li>Multiversion Support</li>
-          <li>Global Control</li>
+          <li>Multicluster Controllers (RO/RW)</li>
+          <li>Multiversion Support (on the fly)</li>
+          <li>Single action executed Globally</li>
         </ul>
       </td>
       <td></td>
@@ -586,7 +586,7 @@ Last Update: 12.11.2025
     </tr>
     <tr>
       <td>
-        <strong>Seamless Provider to Consumer</strong>
+        <strong>Seamless Provider to Consumer (P2C)</strong>
         <ul style="margin-bottom: 0;">
           <li>Services exposed to Consumers</li>
           <li>Open Service Broker API</li>
@@ -603,7 +603,7 @@ Last Update: 12.11.2025
     </tr>
     <tr>
       <td>
-        <strong>Seamless Provider to Provider</strong>
+        <strong>Seamless Provider to Provider (P2P)</strong>
         <ul style="margin-bottom: 0;">
           <li>Reseller model</li>
           <li>Dependency on other Providers</li>
@@ -620,11 +620,11 @@ Last Update: 12.11.2025
     </tr>
     <tr>
       <td>
-        <strong>Seamless Consumer to Consumer</strong>
+        <strong>Seamless Consumer to Consumer (C2C)</strong>
         <ul style="margin-bottom: 0;">
-          <li>Exchange between teams</li>
-          <li>Microservies integration</li>
-          <li>External/Internal consumers</li>
+          <li>Exchange between internal teams</li>
+          <li>Microservies integration/testing</li>
+          <li>External internal consumers</li>
         </ul>
       </td>
       <td></td>
@@ -640,7 +640,7 @@ Last Update: 12.11.2025
         <strong>PlatformMesh to PlatformMesh</strong>
         <ul style="margin-bottom: 0;">
           <li>Exchange between two entities</li>
-          <li>Both ends use PlatformMesh</li>
+          <li>Both entities use PlatformMesh</li>
           <li>Similar to P2P model</li>
         </ul>
       </td>
@@ -656,7 +656,7 @@ Last Update: 12.11.2025
       <td>
         <strong>Control through Choreography</strong>
         <ul style="margin-bottom: 0;">
-          <li>Orchestration tightly coupled</li>
+          <li>Orchestration: tightly coupled</li>
           <li>Autonomous & Decentralized</li>
           <li>“Self-interest” more robust</li>
         </ul>
@@ -724,7 +724,7 @@ Last Update: 12.11.2025
       <td>
         <strong>AI-Native Capabilities</strong>
         <ul style="margin-bottom: 0;">
-          <li>AI Ready, Intent Driven</li>
+          <li>AI Ready, AI Driven, Intent Driven</li>
           <li>Agent Mesh, Agent Gateway</li>
           <li>LLM Support, LLM Runtime</li>
         </ul>
@@ -741,9 +741,9 @@ Last Update: 12.11.2025
       <td>
         <strong>Documentation</strong>
         <ul style="margin-bottom: 0;">
-          <li>Auto-generation</li>
+          <li>Auto-generation - selected areas</li>
           <li>Full Architecture and Design</li>
-          <li>Citations, Bibliography</li>
+          <li>Citations/Bibliography/References</li>
         </ul>
       </td>
       <td></td>
@@ -760,7 +760,7 @@ Last Update: 12.11.2025
         <ul style="margin-bottom: 0;">
           <li>Custom Golden Paths</li>
           <li>Predefined set of defaults</li>
-          <li>API First approach</li>
+          <li>API First approach (no template)</li>
         </ul>
       </td>
       <td></td>
@@ -776,7 +776,7 @@ Last Update: 12.11.2025
         <strong>CMDB Integration (Audit Trail)</strong>
         <ul style="margin-bottom: 0;">
           <li>All changes reflected in CMDB</li>
-          <li>Read/Write (Freeze)</li>
+          <li>Read/Write (e.g. Freeze Period)</li>
           <li>Ideally event based (watch)</li>
         </ul>
       </td>
@@ -793,8 +793,8 @@ Last Update: 12.11.2025
         <strong>Self-healing (Data Plane)</strong>
         <ul style="margin-bottom: 0;">
           <li>Failover and Leader Election</li>
-          <li>Rebalancing, Fixing Drifts</li>
-          <li>Data Recovery</li>
+          <li>Data Recovery & Re-synchronize</li>
+          <li>Rebalancing, Fixing Drifts, Backup</li>
         </ul>
       </td>
       <td></td>
@@ -809,7 +809,7 @@ Last Update: 12.11.2025
       <td>
         <strong>Drift Detection (Real Time)</strong>
         <ul style="margin-bottom: 0;">
-          <li>Reconciliation Loop</li>
+          <li>Reconciliation Loop (internal)</li>
           <li>Deep Monitoring (App-Aware)</li>
           <li>Detailed Status Feedback</li>
         </ul>
@@ -826,7 +826,7 @@ Last Update: 12.11.2025
       <td>
         <strong>FinOps</strong>
         <ul style="margin-bottom: 0;">
-          <li>Cost per Team & Product</li>
+          <li>Cost Analysis per Team & Product</li>
           <li>Shared Resources, Rightsizing</li>
           <li>Awareness & Real Time</li>
         </ul>
@@ -894,7 +894,7 @@ Last Update: 12.11.2025
       <td>
         <strong>Agent Swarm</strong>
         <ul style="margin-bottom: 0;">
-          <li>Built-in support for Agents</li>
+          <li>Built-in support for n+ agents</li>
           <li>Agent Supervisor, Meta Agent</li>
           <li>Agent to Agent Communication</li>
         </ul>
