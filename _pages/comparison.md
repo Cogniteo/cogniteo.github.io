@@ -61,9 +61,9 @@ Last Update: 12.11.2025
       <td>
         <strong>High Level Architecture</strong>
         <ul style="margin-bottom: 0;">
-          <li>SaaS (blocker) vs OnPrem vs both</li>
+          <li>SaaS (blocker) vs OnPrem</li>
           <li>Monolith/Microservice/Serverless</li>
-          <li>Distributed, SQL, NoSQL, Events</li>
+          <li>Distributed, (NO)SQL, Event Bus</li>
         </ul>
       </td>
       <td></td>
@@ -97,7 +97,7 @@ Last Update: 12.11.2025
         <ul style="margin-bottom: 0;">
           <li>Public/Hybrid/Private Cloud</li>
           <li>On Device, On-premise, IoT</li>
-          <li>Far, Near, Regional Edge, Telco</li>
+          <li>Far, Near, Regional Edge</li>
         </ul>
       </td>
       <td></td>
@@ -113,7 +113,7 @@ Last Update: 12.11.2025
         <strong>Security</strong>
         <ul style="margin-bottom: 0;">
           <li>Zero-Trust, Zero-day patching</li>
-          <li>Policy as Code, Secure-by-Default</li>
+          <li>Policy as Code, Signing & SBOM</li>
           <li>Full Observability & Auditing</li>
         </ul>
       </td>
@@ -129,7 +129,7 @@ Last Update: 12.11.2025
       <td>
         <strong>Tech Stack</strong>
         <ul style="margin-bottom: 0;">
-          <li>Golang (95%), Python (4%), Java</li>
+          <li>Golang (95%), Python (4%)</li>
           <li>Microservices, Monolith</li>
           <li>K8s-centric (not JVM)</li>
         </ul>
@@ -178,7 +178,7 @@ Last Update: 12.11.2025
     </tr>
     <tr>
       <td>
-        <strong>Data Sovereignty and Residency Controls</strong>
+        <strong>Data Sovereignty and Residency</strong>
         <ul style="margin-bottom: 0;">
           <li>EU sovereignty (100% control)</li>
           <li>Linux Foundation Europe</li>
@@ -266,8 +266,8 @@ Last Update: 12.11.2025
         <strong>Command Line Client (CLI)(??)</strong>
         <ul style="margin-bottom: 0;">
           <li>Golang (python) binary</li>
-          <li>Compatible with K8s and kubectl</li>
-          <li>Imperative and declarative (edit)</li>
+          <li>Compatible with kubectl</li>
+          <li>Imperative and Declarative</li>
         </ul>
       </td>
       <td></td>
@@ -280,10 +280,10 @@ Last Update: 12.11.2025
     </tr>
     <tr>
       <td>
-        <strong>Multifrontend Portal</strong>
+        <strong>Microfrontend Portal</strong>
         <ul style="margin-bottom: 0;">
-          <li>Zero-Touch Integration (Runtime)</li>
-          <li>Multiple Services with unified UI</li>
+          <li>Zero-Touch Integration</li>
+          <li>Unified UI for Services</li>
           <li>Context-Aware Composition</li>
         </ul>
       </td>
@@ -297,7 +297,7 @@ Last Update: 12.11.2025
     </tr>
     <tr>
       <td>
-        <strong>B2B Service Marketplace (Discovery)</strong>
+        <strong>B2B Service Marketplace</strong>
         <ul style="margin-bottom: 0;">
           <li>API-Driven Service Management</li>
           <li>Event-Based or Pub/Sub</li>
@@ -365,10 +365,10 @@ Last Update: 12.11.2025
     </tr>
     <tr>
       <td>
-        <strong>Distributed Architecture (Quorum?)</strong>
+        <strong>Distributed Architecture</strong>
         <ul style="margin-bottom: 0;">
           <li>HA with Rolling Upgrades</li>
-          <li>RAFT or PAXOS (leader election)</li>
+          <li>RAFT or PAXOS (quorum)</li>
           <li>No Single Point of Failure</li>
         </ul>
       </td>
@@ -450,11 +450,11 @@ Last Update: 12.11.2025
     </tr>
     <tr>
       <td>
-        <strong>Distributed Database (NoSQL vs SQL)</strong>
+        <strong>Distributed Database (NoSQ)</strong>
         <ul style="margin-bottom: 0;">
           <li>Rolling schema upgrades</li>
           <li>Horizontal scalability</li>
-          <li>Fault Tolerance and Low Latency</li>
+          <li>Fault Tolerance, Low Latency</li>
         </ul>
       </td>
       <td></td>
@@ -503,7 +503,7 @@ Last Update: 12.11.2025
       <td>
         <strong>Disaster recovery</strong>
         <ul style="margin-bottom: 0;">
-          <li>Failover & Failback (max 60min)</li>
+          <li>Failover & Failback</li>
           <li>Recovery Time Objective (RTO)</li>
           <li>Backup & Replication</li>
         </ul>
@@ -538,8 +538,8 @@ Last Update: 12.11.2025
         <strong>Service Discovery</strong>
         <ul style="margin-bottom: 0;">
           <li>Discovery for new APIs</li>
-          <li>Self Describing Services (SBoD)</li>
-          <li>Service Catalog (API Marketplace)</li>
+          <li>Self Describing Services</li>
+          <li>Service Catalog (API Hub)</li>
         </ul>
       </td>
       <td></td>
@@ -554,7 +554,7 @@ Last Update: 12.11.2025
       <td>
         <strong>Extensibility</strong>
         <ul style="margin-bottom: 0;">
-          <li>Creation of new API types (CRD)</li>
+          <li>Creation of new API types</li>
           <li>Seamless Integration</li>
           <li>Extension API Server</li>
         </ul>
@@ -571,9 +571,9 @@ Last Update: 12.11.2025
       <td>
         <strong>Multicluster (K8s) Federation</strong>
         <ul style="margin-bottom: 0;">
-          <li>Multicluster Controllers (RO/RW)</li>
-          <li>Multiversion Support (on the fly)</li>
-          <li>Single action executed Globally</li>
+          <li>Multicluster Controllers</li>
+          <li>Multiversion Support</li>
+          <li>Global Control</li>
         </ul>
       </td>
       <td></td>
@@ -586,7 +586,7 @@ Last Update: 12.11.2025
     </tr>
     <tr>
       <td>
-        <strong>Seamless Provider to Consumer (P2C)</strong>
+        <strong>Seamless Provider to Consumer</strong>
         <ul style="margin-bottom: 0;">
           <li>Services exposed to Consumers</li>
           <li>Open Service Broker API</li>
@@ -603,7 +603,7 @@ Last Update: 12.11.2025
     </tr>
     <tr>
       <td>
-        <strong>Seamless Provider to Provider (P2P)</strong>
+        <strong>Seamless Provider to Provider</strong>
         <ul style="margin-bottom: 0;">
           <li>Reseller model</li>
           <li>Dependency on other Providers</li>
@@ -620,11 +620,11 @@ Last Update: 12.11.2025
     </tr>
     <tr>
       <td>
-        <strong>Seamless Consumer to Consumer (C2C)</strong>
+        <strong>Seamless Consumer to Consumer</strong>
         <ul style="margin-bottom: 0;">
-          <li>Exchange between internal teams</li>
-          <li>Microservies integration/testing</li>
-          <li>External internal consumers</li>
+          <li>Exchange between teams</li>
+          <li>Microservies integration</li>
+          <li>External/Internal consumers</li>
         </ul>
       </td>
       <td></td>
@@ -724,7 +724,7 @@ Last Update: 12.11.2025
       <td>
         <strong>AI-Native Capabilities</strong>
         <ul style="margin-bottom: 0;">
-          <li>AI Ready, AI Driven, Intent Driven</li>
+          <li>AI Ready, Intent Driven</li>
           <li>Agent Mesh, Agent Gateway</li>
           <li>LLM Support, LLM Runtime</li>
         </ul>
@@ -741,9 +741,9 @@ Last Update: 12.11.2025
       <td>
         <strong>Documentation</strong>
         <ul style="margin-bottom: 0;">
-          <li>Auto-generation - selected areas</li>
+          <li>Auto-generation</li>
           <li>Full Architecture and Design</li>
-          <li>Citations/Bibliography/References</li>
+          <li>Citations, Bibliography</li>
         </ul>
       </td>
       <td></td>
@@ -760,7 +760,7 @@ Last Update: 12.11.2025
         <ul style="margin-bottom: 0;">
           <li>Custom Golden Paths</li>
           <li>Predefined set of defaults</li>
-          <li>API First approach (no template)</li>
+          <li>API First approach</li>
         </ul>
       </td>
       <td></td>
@@ -776,7 +776,7 @@ Last Update: 12.11.2025
         <strong>CMDB Integration (Audit Trail)</strong>
         <ul style="margin-bottom: 0;">
           <li>All changes reflected in CMDB</li>
-          <li>Read/Write (e.g. Freeze Period)</li>
+          <li>Read/Write (Freeze)</li>
           <li>Ideally event based (watch)</li>
         </ul>
       </td>
@@ -794,7 +794,7 @@ Last Update: 12.11.2025
         <ul style="margin-bottom: 0;">
           <li>Failover and Leader Election</li>
           <li>Data Recovery & Re-synchronize</li>
-          <li>Rebalancing, Fixing Drifts, Backup</li>
+          <li>Rebalancing, Fixing Drifts</li>
         </ul>
       </td>
       <td></td>
@@ -826,7 +826,7 @@ Last Update: 12.11.2025
       <td>
         <strong>FinOps</strong>
         <ul style="margin-bottom: 0;">
-          <li>Cost Analysis per Team & Product</li>
+          <li>Cost per Team & Product</li>
           <li>Shared Resources, Rightsizing</li>
           <li>Awareness & Real Time</li>
         </ul>
@@ -899,16 +899,6 @@ Last Update: 12.11.2025
           <li>Agent to Agent Communication</li>
         </ul>
       </td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><strong>Score</strong></td>
       <td></td>
       <td></td>
       <td></td>
