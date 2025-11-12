@@ -33,6 +33,9 @@ Score: <0 = Not a Platform <br>
 
 Last Update: 12.11.2025
 
+Source: https://docs.google.com/document/d/1UoP_lncQHX6DVSBn4lhBPds3mh5xoHMSpfhynrvWBhY/edit?usp=sharing
+(read only)
+
 <table>
   <thead>
     <tr>
@@ -48,7 +51,7 @@ Last Update: 12.11.2025
   </thead>
   <tbody>
     <tr>
-      <td>Score</td>
+      <td><strong>Score</strong></td>
       <td></td>
       <td></td>
       <td></td>
