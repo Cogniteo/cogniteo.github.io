@@ -567,6 +567,358 @@ Last Update: 12.11.2025
       <td></td>
       <td></td>
     </tr>
+    <tr>
+      <td>
+        <strong>Multicluster (K8s) Federation</strong>
+        <ul style="margin-bottom: 0;">
+          <li>Multicluster Controllers (RO/RW)</li>
+          <li>Multiversion Support (on the fly)</li>
+          <li>Single action executed Globally</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Seamless Provider to Consumer (P2C)</strong>
+        <ul style="margin-bottom: 0;">
+          <li>Services exposed to Consumers</li>
+          <li>Open Service Broker API</li>
+          <li>Internal & External</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Seamless Provider to Provider (P2P)</strong>
+        <ul style="margin-bottom: 0;">
+          <li>Reseller model</li>
+          <li>Dependency on other Providers</li>
+          <li>Extending other Providers</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Seamless Consumer to Consumer (C2C)</strong>
+        <ul style="margin-bottom: 0;">
+          <li>Exchange between internal teams</li>
+          <li>Microservies integration/testing</li>
+          <li>External internal consumers</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <strong>PlatformMesh to PlatformMesh</strong>
+        <ul style="margin-bottom: 0;">
+          <li>Exchange between two entities</li>
+          <li>Both entities use PlatformMesh</li>
+          <li>Similar to P2P model</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Control through Choreography</strong>
+        <ul style="margin-bottom: 0;">
+          <li>Orchestration: tightly coupled</li>
+          <li>Autonomous & Decentralized</li>
+          <li>“Self-interest” more robust</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Naming Convention</strong>
+        <ul style="margin-bottom: 0;">
+          <li>Descriptive & Structured</li>
+          <li>Length, Uniqueness</li>
+          <li>Labels, Annotations</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Isolation Levels</strong>
+        <ul style="margin-bottom: 0;">
+          <li>Namespace as a Service</li>
+          <li>Kubernetes/VPC as a Service</li>
+          <li>Hosted Control Planes</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Implementation Effort</strong>
+        <ul style="margin-bottom: 0;">
+          <li>Transparent Migrations</li>
+          <li>Adoption Model, Buy vs Build</li>
+          <li>Evolution, not Revolution</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <strong>AI-Native Capabilities</strong>
+        <ul style="margin-bottom: 0;">
+          <li>AI Ready, AI Driven, Intent Driven</li>
+          <li>Agent Mesh, Agent Gateway</li>
+          <li>LLM Support, LLM Runtime</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Documentation</strong>
+        <ul style="margin-bottom: 0;">
+          <li>Auto-generation - selected areas</li>
+          <li>Full Architecture and Design</li>
+          <li>Citations/Bibliography/References</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Golden Paths</strong>
+        <ul style="margin-bottom: 0;">
+          <li>Custom Golden Paths</li>
+          <li>Predefined set of defaults</li>
+          <li>API First approach (no template)</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <strong>CMDB Integration (Audit Trail)</strong>
+        <ul style="margin-bottom: 0;">
+          <li>All changes reflected in CMDB</li>
+          <li>Read/Write (e.g. Freeze Period)</li>
+          <li>Ideally event based (watch)</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Self-healing (Data Plane)</strong>
+        <ul style="margin-bottom: 0;">
+          <li>Failover and Leader Election</li>
+          <li>Data Recovery & Re-synchronize</li>
+          <li>Rebalancing, Fixing Drifts, Backup</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Drift Detection (Real Time)</strong>
+        <ul style="margin-bottom: 0;">
+          <li>Reconciliation Loop (internal)</li>
+          <li>Deep Monitoring (App-Aware)</li>
+          <li>Detailed Status Feedback</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <strong>FinOps</strong>
+        <ul style="margin-bottom: 0;">
+          <li>Cost Analysis per Team & Product</li>
+          <li>Shared Resources, Rightsizing</li>
+          <li>Awareness & Real Time</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Platform Roles</strong>
+        <ul style="margin-bottom: 0;">
+          <li>Developer vs SRE vs FinOps</li>
+          <li>Dynamic UI/API Perspectives</li>
+          <li>Policy-as-Code Control</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Software Defined Networking</strong>
+        <ul style="margin-bottom: 0;">
+          <li>Centralized SDN Controller</li>
+          <li>Network Programmability</li>
+          <li>Native Integration</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Observability</strong>
+        <ul style="margin-bottom: 0;">
+          <li>Logs, Metris, Signals</li>
+          <li>OpenTelemetry & Tracing</li>
+          <li>Intelligent Anomaly Detection</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>
+        <strong>Agent Swarm</strong>
+        <ul style="margin-bottom: 0;">
+          <li>Built-in support for n+ agents</li>
+          <li>Agent Supervisor, Meta Agent</li>
+          <li>Agent to Agent Communication</li>
+        </ul>
+      </td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>Score</strong></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 # Assumptions:
 
