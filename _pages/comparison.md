@@ -44,7 +44,7 @@ Last Update: 10.11.2025
 | **Data Sovereignty and Residency Controls**<br><ul><li>EU sovereignty (100% control)</li><li>Linux Foundation Europe</li><li>NeoNephos & European Union</li></ul> | | | | | | | |
 | **Industry Compliance Standards**<br><ul><li>ISO 27001, 9001 (readiness)</li><li>SOC2, HIPAA (readiness)</li><li>CNCF Certified Provider</li></ul> | | | | | | | |
 | **Centralized RBAC & Indentity**<br><ul><li>Segregation of duty (SoD)</li><li>Service Providers & Consumers</li><li>Federated Identity and Access</li></ul> | | | | | | | |
-| **5x Key Interfaces**<br><ul><li>1x Command Line Client (CLI)</li><li>2x Frontend Portal + Backend</li><li>2x AI (MCP/A2A) + REST API</li></ul> | | | | | | | |
+| **5x Key Interfaces**<br><ul><li>1x Command Line Client (CLI)</li><li>2x Frontend Portal + Backend</li><li>2x AI (MCP/A2A) + REST API)</li></ul> | | | | | | | |
 | **API First (Declarative)**<br><ul><li>OpenAPI + Swagger</li><li>Contract-driven design</li><li>REST, Events, Binary, Specific</li></ul> | | | | | | | |
 | **Command Line Client (CLI)(??)**<br><ul><li>Golang (python) binary</li><li>Compatible with K8s and kubectl</li><li>Imperative and declarative (edit)</li></ul> | | | | | | | |
 | **Multifrontend Portal**<br><ul><li>Zero-Touch Integration (Runtime)</li><li>Multiple Services with unified UI</li><li>Context-Aware Composition</li></ul> | | | | | | | |
@@ -80,7 +80,7 @@ Last Update: 10.11.2025
 | **Self-healing (Data Plane)**<br><ul><li>Failover and Leader Election</li><li>Data Recovery & Re-synchronize</li><li>Rebalancing, Fixing Drifts, Backup</li></ul> | | | | | | | |
 | **Drift Detection (Real Time)**<br><ul><li>Reconciliation Loop (internal)</li><li>Deep Monitoring (App-Aware)</li><li>Detailed Status Feedback</li></ul> | | | | | | | |
 | **FinOps**<br><ul><li>Cost Analysis per Team & Product</li><li>Shared Resources, Rightsizing</li><li>Awareness & Real Time</li></ul> | | | | | | | |
-| **Platform Roles**<br><ul><li>Developer vs SRE vs FinOps</li><li>Dynamic UI/API Perspectives</li><li>Policy-as-Code Control</li></ul> | | | | | | | |
+| **Platform Roles**<b<br><ul><li>Developer vs SRE vs FinOps</li><li>Dynamic UI/API Perspectives</li><li>Policy-as-Code Control</li></ul> | | | | | | | |
 | **Software Defined Networking**<br><ul><li>Centralized SDN Controller</li><li>Network Programmability</li><li>Native Integration</li></ul> | | | | | | | |
 | **Observability**<br><ul><li>Logs, Metris, Signals</li><li>OpenTelemetry & Tracing</li><li>Intelligent Anomaly Detection</li></ul> | | | | | | | |
 | **Agent Swarm**<br><ul><li>Built-in support for n+ agents</li><li>Agent Supervisor, Meta Agent</li><li>Agent to Agent Communication</li></ul> | | | | | | | |
