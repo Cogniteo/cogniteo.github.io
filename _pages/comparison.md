@@ -62,8 +62,8 @@ Last Update: 12.11.2025
         <strong>High Level Architecture</strong>
         <ul style="margin-bottom: 0;">
           <li>SaaS (blocker) vs OnPrem</li>
-          <li>Monolith/Microservice/Serverless</li>
-          <li>Distributed, (NO)SQL, Event Bus</li>
+          <li>Monolith, Microservices</li>
+          <li>Distributed, (No)SQL, EventBus</li>
         </ul>
       </td>
       <td></td>
@@ -113,7 +113,7 @@ Last Update: 12.11.2025
         <strong>Security</strong>
         <ul style="margin-bottom: 0;">
           <li>Zero-Trust, Zero-day patching</li>
-          <li>Policy as Code, Signing & SBOM</li>
+          <li>Policy as Code, SBoD & SBoM</li>
           <li>Full Observability & Auditing</li>
         </ul>
       </td>
@@ -250,7 +250,7 @@ Last Update: 12.11.2025
         <ul style="margin-bottom: 0;">
           <li>OpenAPI + Swagger</li>
           <li>Contract-driven design</li>
-          <li>REST, Events, Binary, Specific</li>
+          <li>REST API, Events, Binary</li>
         </ul>
       </td>
       <td></td>
@@ -403,7 +403,7 @@ Last Update: 12.11.2025
         <ul style="margin-bottom: 0;">
           <li>MCP & A2A Native support</li>
           <li>Enterprise-Grade Security</li>
-          <li>Agents, Tools and LLMs support</li>
+          <li>Agents, Tools and LLMs</li>
         </ul>
       </td>
       <td></td>
@@ -471,7 +471,7 @@ Last Update: 12.11.2025
         <ul style="margin-bottom: 0;">
           <li>Deterministic & Declarative States</li>
           <li>Transient and Steady States</li>
-          <li>Acceptors, Classifiers, Checkpoint</li>
+          <li>Acceptors, Classifiers</li>
         </ul>
       </td>
       <td></td>
@@ -640,7 +640,7 @@ Last Update: 12.11.2025
         <strong>PlatformMesh to PlatformMesh</strong>
         <ul style="margin-bottom: 0;">
           <li>Exchange between two entities</li>
-          <li>Both entities use PlatformMesh</li>
+          <li>Both ends use PlatformMesh</li>
           <li>Similar to P2P model</li>
         </ul>
       </td>
@@ -656,7 +656,7 @@ Last Update: 12.11.2025
       <td>
         <strong>Control through Choreography</strong>
         <ul style="margin-bottom: 0;">
-          <li>Orchestration: tightly coupled</li>
+          <li>Orchestration tightly coupled</li>
           <li>Autonomous & Decentralized</li>
           <li>“Self-interest” more robust</li>
         </ul>
@@ -793,8 +793,8 @@ Last Update: 12.11.2025
         <strong>Self-healing (Data Plane)</strong>
         <ul style="margin-bottom: 0;">
           <li>Failover and Leader Election</li>
-          <li>Data Recovery & Re-synchronize</li>
           <li>Rebalancing, Fixing Drifts</li>
+          <li>Data Recovery</li>
         </ul>
       </td>
       <td></td>
@@ -809,7 +809,7 @@ Last Update: 12.11.2025
       <td>
         <strong>Drift Detection (Real Time)</strong>
         <ul style="margin-bottom: 0;">
-          <li>Reconciliation Loop (internal)</li>
+          <li>Reconciliation Loop</li>
           <li>Deep Monitoring (App-Aware)</li>
           <li>Detailed Status Feedback</li>
         </ul>
@@ -894,7 +894,7 @@ Last Update: 12.11.2025
       <td>
         <strong>Agent Swarm</strong>
         <ul style="margin-bottom: 0;">
-          <li>Built-in support for n+ agents</li>
+          <li>Built-in support for Agents</li>
           <li>Agent Supervisor, Meta Agent</li>
           <li>Agent to Agent Communication</li>
         </ul>
