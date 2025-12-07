@@ -7,7 +7,7 @@ image: '/images/ai-event.png'
 
 # Events Callendar
 
-Subsrcibre to all events here: [AI-Native Platforms Callendar](https://luma.com/ai-native-platforms)
+Subsrcibre to all events here: [AI-Native Platform Engineering](https://luma.com/ai-native-engineering)
 
 # Upcoming Events
 
