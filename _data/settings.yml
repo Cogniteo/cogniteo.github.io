@@ -77,8 +77,6 @@ logos:
   enable: true
   logos_title: Happy Customers
   logo_image:
-    - alt: "Shell"
-      image: "/images/logo/shell.jpeg"
     - alt: "Grundfos"
       image: "/images/logo/grundfos.jpeg"
     - alt: "Activision & Blizzard"
